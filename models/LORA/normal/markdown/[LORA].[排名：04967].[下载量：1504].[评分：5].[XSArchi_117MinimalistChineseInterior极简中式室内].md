@@ -1,0 +1,30 @@
+## XSArchi_117MinimalistChineseInterior极简中式室内
+### 一、模型概述
+
+- 标签：`interiors`, `architecture`, `buildings`, `interior design`, `architecture design`
+- 下载数：1504
+- 收藏人数：162
+- 评论人数：2
+- 评分人数：3
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-05-17T14:39:13.794Z
+  - 原始模型：SD 1.5
+  - 下载数：1504
+  - 评分人数：3
+  - 评分：5
+- 下载地址
+  - [XSArchi_117MinimalistChineseInterior极简中式室内.safetensors](https://civitai.com/api/download/models/73290)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2c33fd71-dc30-42f3-a360-7e95f0cfaa37/width=450/818249.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cb2713db-b415-497f-ba58-83acb28fd932/width=450/843867.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6089ac43-89c4-4ee2-bc93-70ff9ed86537/width=450/818244.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/155061b6-6e75-43c4-955d-61448cc2a73e/width=450/818246.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h1><strong><em><u>XSArchi_117MinimalistChineseInterior极简中式室内</u></em></strong></h1><p>使用建议:</p><p>配合一些Lora, TI, VAE等使用文件</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/51830/xsachi-interiordesginv5forcn">XSAchi-InteriorDesginV5ForCN - V5.1 | Stable Diffusion Checkpoint | Civitai</a></p><p>如果你觉得不错，就给我打个五星评价吧</p><p><a target="_blank" rel="ugc" href="mailto:如果您有任何问题，请通过xsarchitecturalstudio@gmail.com">如果您有任何问题，请通过xsarchitecturalstudio@gmail.com</a>与我联系</p><p>Suggestions for use:</p><p>Lora, TI, VAE and other documents for use</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/51830/xsachi-interiordesginv5forcn">XSAchi-InteriorDesginV5ForCN - V5.1 | Stable Diffusion Checkpoint | Civitai</a></p><p>If you think it's good, give me a five-star review</p><p>If you have any questions, please contact me at <a target="_blank" rel="ugc" href="mailto:xsarchitecturalstudio@gmail.com">xsarchitecturalstudio@gmail.com</a></p><p>XS轻量模型系列在库编号100+轻量模型将有新的工作流和使用方式，大致分为主体轻量模型与辅助轻量模型（LoRa、Loha、Perfusion、TI、VAE等）</p><p>主体轻量模型：XSArchi_1***V1，V1将作为主体轻量模型编号进行规整命名，在工作流中起到主导图像生成的工作，复合功能将决定于轻量模型功能。使用权重在0.5-1.3左右。</p><p>辅助轻量模型：XSArchi_1***V1.1，V1.1（即此Lora第二版）将作为辅助轻量模型编号进行规整命名，在工作流中起到辅助图像生成的工作，无复合功能，分为视角、风格、应用场景等20余种功能轻量模型，详细功能将在轻量模型介绍中标出。使用权重在0.1-0.5左右。</p><p>V2+轻量模型将被更新或迭代。</p><p>新轻量模型将分为两种不同的训练、融合、提取等方式进行制作，在库编号相同但版本不同的轻量模型，在训练集的处理上大致无异。在库编号不同但版本相同的轻量模型，功能不同外，训练集及训练方式也各不相同。</p><p>新版本将加入中英文命名的方式，解决大家对于模型标识、分类出现的困难。</p><p>其余版本介绍：</p><p>在库编号100-的轻量模型为早期试用模型，将被迭代。</p><p>在库编号100+的轻量模型为正式模型，分为商用及非商用模型，将会持续更新。</p><p>在库编号百位数以复数形式出现的为独立授权模型，针对不同平台、企业、组织、个人等进行授权、商用、非商用流通。</p><p>在库含有编号的轻量模型被认作为垂类模型库在库模型，将配合XS工作流进行使用。</p><p>XS Lightweight model series in the library number 100+ lightweight model will have a new workflow and use methods, roughly divided into the principal lightweight model and auxiliary lightweight model (LoRa, Loha, TI, VAE, etc.).</p><p>Body lightweight model: XSArchi_1***V1, V1 will be structured and named as the body lightweight model number, and play a leading role in image generation in workflow. Composite function will be determined by the function of the lightweight model. The right to use weight is around 0.5-1.3.</p><p>Auxiliary lightweight model: XSArchi_1***V1.1, V1.1 (i.e., the second version of Lora) will be structured and named as the auxiliary lightweight model number, and play an auxiliary role in image generation in workflow. There is no compound function, and it is divided into more than 20 functional lightweight models such as perspective, style and application scene. The right to use is about 0.1 to 0.5.</p><p>V2+ lightweight model will be updated or iterated.</p><p>The new lightweight model will be divided into two different ways of training, fusion, extraction and so on. The lightweight model with the same library number but different versions will be roughly the same in the processing of the training set. In addition to the different functions of lightweight models with different library numbers but the same version, the training sets and training methods are also different.</p><p>The new version will add the way of naming in Chinese and English to solve the difficulties of model identification and classification.</p><p>Introduction to other versions:</p><p>The lightweight model in library number 100- is an early trial model that will be iterated.</p><p>The lightweight models in the library number 100+ are official models, divided into commercial and non-commercial models, and will be updated continuously.</p><p>The number of hundreds in the database appears in the plural form as an independent authorization model, which carries out authorization, commercial and non-commercial circulation for different platforms, enterprises, organizations, individuals, etc.</p><p>The numbered lightweight models in the library are considered as vertical model models and will be used in conjunction with the XS workflow.</p>

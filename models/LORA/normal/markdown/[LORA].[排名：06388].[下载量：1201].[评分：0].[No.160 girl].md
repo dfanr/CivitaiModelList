@@ -1,0 +1,30 @@
+## No.160 girl
+### 一、模型概述
+
+- 标签：`photorealistic`, `woman`, `celebrity`
+- 下载数：1201
+- 收藏人数：203
+- 评论人数：3
+- 评分人数：0
+- 评分：0
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-05-04T13:29:51.835Z
+  - 原始模型：SD 1.5
+  - 下载数：1201
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [sd-No.160-000014.safetensors](https://civitai.com/api/download/models/62214)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbed4bec-187a-484d-812e-3c41582ffdf2/width=450/683833.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fd8c37a9-d441-4b0f-8e2b-f87641140462/width=450/683869.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/361b7180-a6b3-47de-bdc7-fe2fc2b7454f/width=450/683838.jpeg" /> |
+| ---- | ---- | ---- |
+
+
+### 三、详情
+<p>我是dawn6666，我之前的账号被封禁，今后的内容在这个账号或者我的频道中发布（<a target="_blank" rel="ugc" href="https://t.me/dawn66666666）。">https://t.me/dawn66666666）。</a></p><p>I am dawn6666, my previous account was banned, and future content will be posted on this account or my channel（<a target="_blank" rel="ugc" href="https://t.me/dawn66666666）">https://t.me/dawn66666666）</a>.</p><p>chilloutmix出图，强度0.6-0.8，注意负面tag我使用了EasyNegative：</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/7808/easynegative">EasyNegative - EasyNegative | Stable Diffusion Textual Inversion | Civitai</a></p><p>Chilloutmix output image, intensity 0.6-0.8, note that my negative label uses EasyNegative:</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/7808/easynegative">EasyNegative - EasyNegative | Stable Diffusion Textual Inversion | Civitai</a></p><p>系列说明：</p><p>No.1xx 是我不太熟悉的人</p><p>No.2xx 是我知道的明星或博主</p><p>No.4xx 是一些实验性风格概念等。</p><p>Series description:</p><p>No.1xx is someone I am not familiar with</p><p>No.2xx is a star or blogger I know</p><p>No.4xx are some experimental style concepts etc.</p>

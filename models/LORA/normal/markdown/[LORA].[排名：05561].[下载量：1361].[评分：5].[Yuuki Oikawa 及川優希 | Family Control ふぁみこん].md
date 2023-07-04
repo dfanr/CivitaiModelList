@@ -1,0 +1,46 @@
+## Yuuki Oikawa 及川優希 | Family Control ふぁみこん
+### 一、模型概述
+
+- 标签：`character`
+- 下载数：1361
+- 收藏人数：274
+- 评论人数：3
+- 评分人数：3
+- 评分：5
+
+### 二、下载地址（共2个版本）
+
+#### [版本2/共2个版本] v2.0 Updated Episode 4
+
+- 统计数据
+  - 发布时间：2023-06-26T14:56:02.937Z
+  - 原始模型：SD 1.5
+  - 下载数：567
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [Yuuki_Oikawa_Family_Control-KK77-V2.safetensors](https://civitai.com/api/download/models/104520)
+  - [Yuuki_Oikawa_Family_Control.zip](https://civitai.com/api/download/models/104520?type=Training%20Data)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/73170590-470e-42b1-9e1c-322940fdd4d0/width=450/1297149.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8c432079-894c-4c26-a255-fda2930253a0/width=450/1297116.jpeg" /> |
+| ---- | ---- |
+
+#### [版本1/共2个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-06-26T14:55:12.472Z
+  - 原始模型：SD 1.5
+  - 下载数：794
+  - 评分人数：2
+  - 评分：5
+- 下载地址
+  - [Yuuki_Oikawa-V1.safetensors](https://civitai.com/api/download/models/60973)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6576288c-28db-4465-94cc-d01275e6c137/width=450/668208.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ac26c5b5-ba12-49b0-8d8f-31b016cc4dbd/width=450/668209.jpeg" /> |
+| ---- | ---- |
+
+
+### 三、详情
+<p>【LORA】Yuuki Oikawa 及川優希 | Family Control ふぁみこん</p><p><a target="_blank" rel="ugc" href="https://www.pixiv.net/users/86166786">https://www.pixiv.net/users/86166786</a></p><p>Discord: Picture Share (Uncensorship) <a target="_blank" rel="ugc" href="https://discord.gg/YkqSnaXqEQ">https://discord.gg/YkqSnaXqEQ</a></p><p><a target="_blank" rel="ugc" href="https://discord.com/channels/1105857326503690320/1120292266272096277/1122905972596277288">https://discord.com/channels/1105857326503690320/1120292266272096277/1122905972596277288</a></p><p></p><p><strong>Training Images : 104</strong></p><p></p><p><strong>Version 2 : Updated From Episode 4</strong></p><p></p><p>prompt:</p><p>(Night:1.7), Japan, Tokyo, CityView, Before Window,building,city skyline at night,futuristic city,<br /><br />Standing at attention,<br /><br />White blazer,shirt,ribbon,plaid_vest,plaid_skirt,<br /><br />&lt;lora:Yuuki_Oikawa_Family_Control-KK77-V2:0.7&gt;,smile,<br /><br />orange_long_hair,orange eyes, single braid,<br /><br />1 girl, 20yo,Young female,Beautiful Finger,Beautiful long legs,Beautiful body,Beautiful Nose,Beautiful character design, perfect eyes, perfect face,<br /><br />looking at viewer,in the center of the image,(Upper_body),(close-Up),(Focus on her face),<br /><br />NSFW,official art,extremely detailed CG unity 8k wallpaper, perfect lighting,Colorful, Bright_Front_face_Lighting,<br />(masterpiece:1.0),(best_quality:1.0), ultra high res,4K,ultra-detailed,<br />photography, 8K, HDR, highres, absurdres:1.2, Kodak portra 400, film grain, blurry background, bokeh:1.2, lens flare, (vibrant_color:1.2)<br /><br />(Beautiful,large_Breasts:1.4), (beautiful_face:1.5),(narrow_waist),</p><p><br />Negative prompt:</p><p>EasyNegative, FastNegativeV2, bad-artist-anime, bad-hands-5, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, jpeg artifacts, signature, watermark, username, blurry, out of focus, censorship, Missing vagina, Blurry faces, Blank faces, bad face, Ugly, extra ear, amputee, missing hands, missing arms, missing legs, Extra fingers, 6 fingers, Extra feet, Missing nipples, ghost, futanari, Extra legs, Extra hands, panties,pants, (painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), text, error, blurry, jpeg artifacts, cropped, normal quality, artist name, (worst quality, low quality:1.4),twisted_hands,fused_fingers,</p><p><br />Steps: 48, Sampler: Euler a, CFG scale: 7, Seed: -1, Size: 512x768,</p><p>Model hash: 3e9211917c, Model: yesmix_v16Original,</p><p>Denoising strength: 0.5, Hires upscale: 2, Hires steps: 18,</p><p>Hires upscaler: R-ESRGAN 4x+ Anime6B,</p><p>Lora hashes: "Yuuki_Oikawa_Family_Control-KK77-V2: 22ea668831c5", Version: v1.3.1</p>

@@ -1,0 +1,32 @@
+## privateRefslave - Legacy Model
+### 一、模型概述
+
+- 标签：`base model`, `refslave`, `privaterefslave`
+- 下载数：1072
+- 收藏人数：417
+- 评论人数：13
+- 评分人数：1
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v2
+
+- 统计数据
+  - 发布时间：2023-03-24T16:07:04.170Z
+  - 原始模型：SD 1.5
+  - 下载数：1072
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [privaterefslaveLegacy_v2.safetensors](https://civitai.com/api/download/models/27771)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cbf82113-fa3b-4455-41c4-b3e76b9d2d00/width=450/311794.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/56a0ae4f-e34a-45d5-88cb-d9961e1e5300/width=450/311902.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/483312db-e637-4951-10d3-897947b7bf00/width=450/311803.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1d60e855-d3a3-4f2e-8fac-3db436e8dc00/width=450/311802.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h1>Preserving a Legacy Model.. Again</h1><p>This model has literally been uploaded, removed, uploaded, removed several times now..</p><p>( I actually saved the huggingface page months ago because I had a feeling this thing would disappear <em>:glares:</em> -_- )</p><p></p><p>I am uploading a pruned version and leaving it here,.</p><p></p><p><strong>Quick Notes</strong></p><ul><li><p>I've pruned it down to 2gigs / fp16 and validated through several prompts that the images come out identical to the original 7gig model.</p></li><li><p>It only exists as a SafeTensor never had a ckpt version.</p><p></p></li></ul><p><u>I don't plan to support this, just trying to preserve this model for the community.</u></p><p></p><p><strong>[From Original Documentation]</strong><br /><br />The second version of RefSlave, a merge of anime diffusion models with the goal of producing vibrant and detailed, yet painterly images by maintaining a subtle impressionistic quality. Supports Danbooru tags within prompts.</p><p></p><p></p><p><strong><u>For the original 7gb refslave_v2 (Unpruned):</u></strong></p><p><a target="_blank" rel="ugc" href="https://huggingface.co/Dorshu/refslaveV2_v2/blob/main/refslaveV2_v2.safetensors">https://huggingface.co/Dorshu/refslaveV2_v2/blob/main/refslaveV2_v2.safetensors</a></p><p></p><p></p><p></p><h2>Prompting / Info</h2><ul><li><p>Clip Skip: 2</p></li><li><p>Highres fixes (of any methodology) are your friend, especially for faces</p></li><li><p>This thing can work with almost any prompt both simple and complex</p></li><li><p>EasyNegative and other anatomy fixing TI's are your friend, especially with hands</p></li></ul><p><br /><strong>[From Original Documentation]</strong></p><p>(Take it with a grain of salt)</p><pre><code>Sampling Method:
+  ➣ DPM++ SDE Karras  ➔  Stable Composition, details make more sense.
+  ➣ DPM++ 2M Karras  ➔  Dynamic Composition, more distortions, details often don't make sense.</code></pre><p></p><p><strong>Model Merging Recipe [From Original Documentation]</strong></p><p></p><p><strong>Tertiary Bases (First stage, used to make the secondary bases)</strong></p><p><strong>➤ Tertiary Base 1 (Normal Merging)</strong></p><p>Merge Interpolation Method Primary Model (A) Secondary Model (B) Tertiary Model Output Model 1 Weighted sum @ 0.5 AOM3A2 Counterfeit-V2.5 N/A RefSlave-V2-Bronze1 2 Weighted sum @ 0.3 RefSlave-V2-Bronze1 pastelmix-better-vae-fp16 N/A RefSlave-V2-Bronze2 3 Weighted sum @ 0.2 RefSlave-V2-Bronze2 Ultracolor.v4 N/A RefSlave-V2-Bronze3 4 Add Difference @ 0.9 RefSlave-V1 RefSlave-V2-Bronze3 EasyNegative <strong>RefSlave-V2-SilverA</strong></p><p></p><p><strong>➤ Tertiary Base 2 (Normal Merging)</strong></p><p>Merge Interpolation Method Primary Model (A) Secondary Model (B) Tertiary Model Output Model 5 Weighted sum @ 0.55 pastelmix-better-vae-fp16 RefSlave-V2-Bronze1 N/A RefSlave-V2-Bronze2B 6 Add Difference @ 0.8 Ultracolor.v4 RefSlave-V2-Bronze2B EasyNegative RefSlave-V2-Bronze3B 7 Add Difference @ 0.4 RefSlave-V2-Bronze3B AOM3A1 EasyNegative <strong>RefSlave-V2-SilverB</strong></p><p><strong>Secondary Bases (Second stage, used to make the primary base)</strong></p><p></p><p><strong>➤ Secondary Base (Block Weight Merging)</strong></p><p>Merge Primary Model (A) Secondary Model (B) base_alpha Weight Values Output Model 8 RefSlave-V2-Silver-A RefSlave-V2-Silver-B 0 1,1,1,1,0.75,0.5,0.33,0.2,0.1,0,0,0,0,0.15,0.15,0.33,0.5,0.6,0.75,1,1,1,1,1,1 RefSlave-V2-Silver-AB 9 Counterfeit-V2.5 RefSlave-V2-Silver-AB 0 1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1 <strong>RefSlave-V2-Gold</strong></p><p><strong>Final Merge (Third stage, merging the primary base)</strong></p><p></p><p><strong>➤ Primary Base (Block Weight Merging)</strong></p><p>Merge Primary Model (A) Secondary Model (B) base_alpha Weight Values Output Model 10 AOM3A2 RefSlave-V2-Gold 1 1,1,1,1,0.75,0.5,0.33,0.2,0.1,0,0,0,0,0.15,0.15,0.33,0.5,0.6,0.75,1,1,1,1</p><p></p><p><strong>Model Sources [From Original Documentation]</strong></p><p>AOM3A1 <a target="_blank" rel="ugc" href="https://huggingface.co/WarriorMama777/OrangeMixs/blob/main/Models/AbyssOrangeMix3/AOM3A1.safetensors">Repository</a></p><p>AOM3A2 <a target="_blank" rel="ugc" href="https://huggingface.co/WarriorMama777/OrangeMixs/blob/main/Models/AbyssOrangeMix3/AOM3A2.safetensors">Repository</a></p><p>AOM3A3 <a target="_blank" rel="ugc" href="https://huggingface.co/WarriorMama777/OrangeMixs/blob/main/Models/AbyssOrangeMix3/AOM3A3.safetensors">Repository</a></p><p>Counterfeit-V2.5 <a target="_blank" rel="ugc" href="https://huggingface.co/gsdf/Counterfeit-V2.5/blob/main/Counterfeit-V2.5.safetensors">Repository</a></p><p>pastelmix-better-vae-fp16 <a target="_blank" rel="ugc" href="https://huggingface.co/andite/pastel-mix/blob/main/pastelmix-better-vae-fp16.safetensors">Repository</a></p><p>Ultracolor.v4 <a target="_blank" rel="ugc" href="https://huggingface.co/xdive/ultracolor.v4/blob/main/Ultracolor.v4.ckpt">Repository</a></p><p></p><p>--</p><h2>Acknowledgments / Credits</h2><ul><li><p>Original Author was <a target="_blank" rel="ugc" href="https://huggingface.co/AgraFL">https://huggingface.co/AgraFL</a></p><ul><li><p>Their account has been pruned and all their works nuked.. as best as I can tell.</p></li></ul></li><li><p>As far as I know this isn't based on any one artist</p></li></ul>

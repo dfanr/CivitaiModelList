@@ -1,0 +1,30 @@
+## Magical Interior Style: Hobbit inspired living rooms, kitchens, bathrooms and more
+### 一、模型概述
+
+- 标签：`3d`, `photorealistic`, `digital art`, `interiors`, `architecture`, `highly detailed`, `concept art`, `gothic`, `fantasy art`, `style`, `art style`, `artstyle`, `beautiful`, `cartoon`, `digital illustration`, `embedding`, `fantasy`, `photography`, `photorealism`, `realistic`, `semi-realistic`, `interior rendering`, `lord of the rings`, `harry potter`, `hobbit`
+- 下载数：2369
+- 收藏人数：569
+- 评论人数：5
+- 评分人数：4
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] 1.0
+
+- 统计数据
+  - 发布时间：2023-03-18T19:44:32.433Z
+  - 原始模型：SD 1.5
+  - 下载数：2369
+  - 评分人数：4
+  - 评分：5
+- 下载地址
+  - [magicalinterior.pt](https://civitai.com/api/download/models/25192)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/66a61acd-1dac-4859-55c0-7fb7ed161b00/width=450/276145.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9654344-dcf6-470d-918f-d2273e49bb00/width=450/276152.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f0d14a36-9c72-4de2-d507-e9e5d98ec400/width=450/276726.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b1897a45-fc02-47af-1256-75f86a551d00/width=450/275991.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h2>What can I create with this?</h2><p>Hobbit house-inspired interiors, with large windows, nice views, luxury furniture, and dark wood and leather material.</p><h2>Quick Example</h2><p><strong>Positive prompt</strong></p><pre><code>(Professional 3D rendering:1.3) of (Ultrarealistic:1.3) magicalinterior style, bathroom, bathing room, plant, scenery, window, tree, nature, bathtub, forest, mirror, bath, faucet, water, house interior, indoors, cottage interior, treehouse interior, dark, gothic, Goth, luxury, fantasy, magic, Harry Potter, Slytherin, perfect composition, award-winning,CGSociety,ArtStation</code></pre><p><strong>Negative prompt</strong></p><pre><code>ng_deepnegative_v1_75t, bad-artist, (worst quality, low quality:1.4), multiple views, multiple panels, blurry, watermark, letterbox, text, character, human, people, 1girl, 1boy,((Wireframe)),Polygons,Screenshot,Character design,Software,UI,watermark,signature</code></pre><p><strong>Example Settings</strong></p><p>768x512 px canvas size, CFG scale 7 and 70 steps on <a target="_blank" rel="ugc" href="https://civitai.com/models/4823/deliberate">Deliberate.</a></p><p></p><h2>Complete workflow</h2><h3>Prompt structure</h3><p>[your medium], magicalinterior style, [Subject], [Descriptors]</p><p><strong>Medium</strong></p><p>You can use "professional 3d rendering" or set Image Type to Random in <a target="_blank" rel="ugc" href="https://github.com/some9000/StylePile">StylePile</a> (highly recommended extension).</p><p><strong>Subject</strong></p><p>Use one of these subjects or copy-paste them to the [X] field of Style Pile and use [X] in your prompt formula instead of [Subject]. You can also generate your original subjects in ChatGTP, using the <a target="_blank" rel="ugc" href="https://civitai.com/models/18424/style-of-hopa-games-landscapes-and-scenery-concept-art-in-style-of-video-games">workflow described here</a>.</p><p><em>kitchen, kitchen decor, kitchen design, window, scenery, plant, table, bottle, sunlight, chair</em></p><p><em>bathroom, bathing room, plant, scenery, window, tree, nature, bathtub, forest, mirror, bath, faucet, water</em></p><p><em>living room, livingroom, plant, candle, window, scenery, couch, table, candlestand, cup, potted plant, teapot, sleeping, chair, stained glass</em></p><p><em>potions lair, candle, city, scenery, window, fantasy, witchcraft, alchemy, alchemist lab, candlestand, bottle, chandelier, table, shelf</em></p><p><em>library, no scenery, books, bookshelf, window, plant, tree, lamp, table, candle, flower, chair</em></p><p><strong>Descriptors</strong></p><p>The last part of the positive prompt is descriptive tags. Use one of these or make your own:</p><p><em>house interior, indoors, cottage interior, treehouse interior, dark, gothic, Goth, luxury, fantasy, magic, Harry Potter, Slytherin, Lord of the rings, LOTR</em></p><p><em>house interior, indoors, cottage interior, treehouse interior, light, bright, luxury, fantasy, magic, Harry Potter, Slytherin, perfect composition, award-winning</em></p><p><em>house interior, indoors, cottage interior, treehouse interior, dark, gothic, Goth, luxury, fantasy, magic, Harry Potter, Slytherin, perfect composition, award-winning, Dirk Crabeth, unreal engine 5 highly rendered, a detailed matte painting, gothic art</em></p><p><strong>Negative prompt</strong></p><p>Use two of your favorite negative embeddings (in my case <a target="_blank" rel="ugc" href="https://civitai.com/models/4629/deep-negative-v1x">Deep Negative </a>and <a target="_blank" rel="ugc" href="https://civitai.com/models/5224/bad-artist-negative-embedding">Bad Artist</a>) plus negative words from the model you are using. My case:</p><p><em>ng_deepnegative_v1_75t, bad-artist, (worst quality, low quality:1.4), multiple views, multiple panels, blurry, watermark, letterbox, text, character, human, people, 1girl, 1boy</em></p><p></p><p><strong>Recommended models</strong></p><p>Good results on <a rel="ugc" href="https://civitai.com/models/4823/deliberate">Deliberate</a>, <a rel="ugc" href="https://civitai.com/models/10752/the-allys-mix-iii-revolutions">The Allys Mix III</a>, and <a rel="ugc" href="https://civitai.com/models/17443/surrealsteampunkai">Surreal Steampunk AI</a> (without trigger words). Style fails to deliver with Anime models, such as <a rel="ugc" href="https://civitai.com/models/2583/grapefruit-hentai-model">Grapefruit.</a></p><p><strong>Upscaling</strong></p><p>Examples are not upscaled but you can do it with a denoising of 0.2 and your favorite upscaler in IMG2IMG.</p>

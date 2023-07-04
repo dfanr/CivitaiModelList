@@ -1,0 +1,30 @@
+## 80s Japan Analog Film Photography
+### 一、模型概述
+
+- 标签：`film`, `photorealistic`, `analog`, `analog style`, `photo`, `style`, `photography`
+- 下载数：2146
+- 收藏人数：398
+- 评论人数：2
+- 评分人数：5
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] 1.0
+
+- 统计数据
+  - 发布时间：2023-03-08T01:20:31.245Z
+  - 原始模型：SD 1.5
+  - 下载数：2146
+  - 评分人数：5
+  - 评分：5
+- 下载地址
+  - [80s Japan.safetensors](https://civitai.com/api/download/models/20006)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0d74ac3-4b8b-4e16-9ff3-49c55fce3d00/width=450/211462.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/29b846e3-dc25-44f6-0b74-80b12fd61300/width=450/211592.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/666641d0-7f0f-4c4d-1689-59a9f1043400/width=450/211463.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc0f2cf7-086f-4a4f-643a-2c4efb4d8500/width=450/211461.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h2><strong><u>80s Japan Film LoRA</u></strong></h2><p><strong><u>Contents:</u></strong><u> How to use - Trigger words - Training - Future</u></p><p>A build on my origional <a target="_blank" rel="ugc" href="https://civitai.com/models/14826">Film LoRA</a> - This was trained on a specific set of film stills from 80s Japanese movies to give a certrain color tone and feel to the images generated.  See the sample images for the <strong>simple prompts</strong> used.  Tested with Realistic Vision 1.4.  I recommend using <strong>Control Net </strong>to help generate your portraits / photos etc.  Depth models for poses work really well!</p><h3><strong>How to use:</strong></h3><p><strong><u>LoRA strength:</u></strong> <strong>0.3 to 0.7 </strong>- Higher strengths may produce artifacts</p><p>Should work well with any photo realistic model for <strong><u>portraits</u></strong> (see training), the sample images were made with Realistic Vision V1.4</p><p>This LoRA WILL change the shape of faces, backgrounds, and the overall feel of an image, and may produce vastly different results on the same seed.  This is due to the training style.</p><p>I highly recommend using <strong>Control Net</strong> and other tools if you want to regenerate a specific image.</p><p>For generating photos of certain types of people, try to be specific in your descriptions: “Latin female wearing an oversized hoodie” - “Asian male with blue hair” as otherwise you will get similar looking faces.</p><p><u>This LoRA is </u><strong><u>not</u></strong><u> tested or intended for NSFW generations.</u></p><h3><strong>Trigger words:</strong></h3><p><strong>Color film photograph - 1980s - Tokyo - Japan</strong></p><p>Works without trigger words as well, but extra prompts enhance the effect. Also works well with prompts such as: Sunset - Hard light - Soft Light etc.</p><h3><strong>Training:</strong></h3><p>This LoRA was trained using around 40 film stills from various Japanese films of the era. There were very few close up portraits or detailed people in the training data, so the model is more resonsible for the faces than the LoRA in this instance.  </p><p>For more info on LoRA training check out the channel and video below:</p><p><a target="_blank" rel="ugc" href="https://www.youtube.com/@Aitrepreneur"><u>https://www.youtube.com/@Aitrepreneur</u></a></p><div data-youtube-video><iframe allowfullscreen="true" autoplay="false" disablekbcontrols="false" enableiframeapi="false" endtime="0" ivloadpolicy="0" loop="false" modestbranding="false" origin playlist src="https://www.youtube.com/embed/7m522D01mh0" start="0" width="640" height="480"></iframe></div><h2>Future:</h2><p><strong>Analog Film Portraits v1.1:</strong> Training on a larger data set with better tagging.  Less aggressive training.</p><p><strong>Neon Lights v1.0:</strong> Photographers will often use color gels or colored lights to achieve a “Neon” look to their images.  SD is really, really bad at this, often over exposing or adding random neon necklaces/clothing. I’ve already trained a beta version which does a great job of recreating the effect.  See an example image here: <a target="_blank" rel="ugc" href="https://unsplash.com/photos/3TLl_97HNJo"><u>https://unsplash.com/photos/3TLl_97HNJo</u></a></p><p><strong>Analog Film landscapes v0.5:</strong> Will train a LoRA on non-portrait images of various film stocks to give more flexibility to image generation.</p><p><strong>Rembrandt Lighting v0.5:</strong> Fairly hard to achieve this kind of lighting in SD with prompting.  Will train on a medium sized data set to try to recreate this famous lighting style of more dramatic portraits.</p><p><strong>Slide Film v0.5:</strong> Slide film has a very obvious color style and grain structure that has always been difficult to replicate digitally.  Will beta test some LoRA training as the weeks move on.</p><p><strong>Street Photography v0.5:</strong> Mostly made using wide angle lenses, and on a variety of subjects.  Will attempt to replicate.</p><p><strong>Studio Fashion photography v0.5:</strong> Fashion photographers shoot in a specific style / angle / focal length, with fairly soft lighting attempting to highlight the clothing rather than the face.  Will attempt to train on various styles.</p><h2>Why this Film LoRA?:</h2><p>SD is trained on a LOT of images, a cursory glance through the LAION database for “Portrait photo” reveals most images are older, lower quality, and over exposed.  Most of the tagging is also fairly poor when it comes to style.  Searching for “Film Photo” will also just return some really bad examples, with logos, and posters thrown in.  SD doesn’t really have a good data set for certain photographic styles, especially professional level photography.  I’m attempting to help SD produce high quality photography in specific styles that will help photographers interested in image generation achieve the look they want.</p><p><strong>Feedback is very welcome</strong>, please leave some comments letting me know what works and what doesn’t for you.  This will be super helpful in training future LoRAs.</p>

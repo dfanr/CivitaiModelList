@@ -1,0 +1,30 @@
+## Ghislaine Dedoldia - Mushoku Tensei
+### 一、模型概述
+
+- 标签：`anime`, `character`, `female`, `woman`, `mushoku tensei`, `mushoku tensei: jobless reincarnation`, `mushoku tensei: isekai ittara honki dasu`, `ghislaine`, `dedoldia`
+- 下载数：1031
+- 收藏人数：283
+- 评论人数：1
+- 评分人数：4
+- 评分：4.75
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-04-08T19:20:23.865Z
+  - 原始模型：SD 1.5
+  - 下载数：1031
+  - 评分人数：4
+  - 评分：4.75
+- 下载地址
+  - [GhislaineMT.safetensors](https://civitai.com/api/download/models/40244)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7bb19260-fe6f-406a-9cbf-73acc5a95b00/width=450/445072.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/da6ae99b-2ff8-4320-d9cc-f65098127f00/width=450/445076.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c7b1d75-df0d-4f1f-1ed4-027ae0c4db00/width=450/445067.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d70448c-fc0d-485c-f670-7c7c0996c500/width=450/445070.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p><strong>Important Note:</strong> Unfortunately, the images I selected won't recreate perfectly with the file I uploaded. When testing I realized I had mess up and had flip_aug turned on, which was causing the inconsistency of her eye-patch being applied. I fixed that for the uploaded version but I had already made a bunch of images I liked :(.</p><p>This Lora is for our muscle waifu, Ghislaine, from Mushoku Tensei! It was trained on animefull_final with <strong><em>26</em></strong> images with the usual self-pruning and tagging and a wide range of different images. I like keeping my prompts simple for the first few pictures so that you can see it without a whole bunch of mumbo jumbo. Make your pictures better than mine though!</p><p><strong>What does it do you ask?</strong> Pretty simple for this one. Put in LORA, get out a Ghislaine. Profit.</p><p><strong>How to use it:</strong> Lora strength for 1 if you just her in her normal form. 0.7-0.8 if blending with other clothing tags or Loras.</p><p>Also the trigger words are:</p><p><em>GhislaineMT - </em>Only trigger word currently added.</p><p><em>green pants, bandeau (highly recommended)</em>- For whatever reason, the LORA doesn't pop out the exact perfect outfit consistantly, so reminding it with these two tags makes the images MUCH more consistant.</p><p><strong>Extra, Extra!:</strong> The eyepatch, even though better after disabled flip_aug, is still not perfect. The LORA doesn't get it right 100% of the time (though way better than my selected pictures) so expect some repetition on finding the right image.</p><p><strong>Picture Descriptions:</strong></p><p>1-3: AnythingV3 using just this Lora. </p><p>4: AnythingV3 and wearing a business outfit.</p><p>5: AnythingV3 combo'd with my released Angel Locon.</p><p>6: AnythingV3 combo'd with my in progress Brainwashing Locon.</p><p>7: AnythingV3 combo'd with my in progress Dominatrix Locon.</p><p>8-9: AnythingV3 combo'd with my in progress PetPlay Locon..</p><p>10: AnythingV3 combo'd with my in progress v2Corruption Locon.</p><p>11: AbyssOrange with just the Lora.</p><p>12: PerfectWorld using just this Lora.</p><p><strong>What's next for this?</strong> If I can figure out how to improve the eyepatch or make it so you don't need green pants and bandeau, then that would cause a v2. Or feedback.</p><p><strong>What's next that isn't this?</strong></p><p>More character Loras. (<strong><em>Ivy </em></strong>from Soul Calibur 5, <strong><em>Heine </em></strong>from Combatants Will Be Dispatched, <strong><em>Conqueror Lilias</em></strong> from E7, <strong><em>Rozalin</em></strong> from Disgaea 2, <strong><em>Tharja</em></strong> from Fire Emblem, <strong><em>Catherine</em></strong> from Catherine Full Body, <strong><em>Miku </em></strong>from Idaten Deities, <strong><em>Kuribayashi Shino</em></strong> from GATE, <strong><em>Rin Sohma</em></strong> from Fruits Basket, <strong><em>Kasumi</em></strong> from P5, <strong><em>Ann</em></strong> from P5, <strong><em>Ikumi Mito</em></strong> from Food Wars, <strong><em>Alice Nakiri</em></strong> from Food Wars, <strong><em>Chika Fujiwara</em></strong> from Kaguya-sama, <strong><em>Lulu</em></strong> from FF10, <strong><em>Momo</em></strong> from My Hero,<strong><em> Vivy</em></strong> from Vivy, <strong><em>Dominique de Sade</em></strong> from Vanitas, and <strong><em>Dos</em></strong> from One Punch Man.) And maybe <strong><em>Wilhelm van Astrea</em></strong>, my favorite Re:Zero husbando or a<strong><em> Prinny</em></strong> from Disgaea.</p><p>V2's of some of the previous Loras. Specifically make them more diversely acceptable with other models and LORA's.</p><p>I also have some more quite NSFW Locon's. I decided to list them as well, so if people have preferences on which to fix up first let me know. Specifically, <strong><em>Brainwashing</em></strong> your waifu, <strong><em>CorruptV2</em></strong>, <strong><em>Symbiote Taking Over</em></strong> (imagine a venom-like symbiote taking over your waifu), <strong><em>being stepped on</em></strong>, <strong><em>Robotification</em></strong>, <strong><em>Petrified</em> </strong>(I'm unsure if I should bother with this one anymore)<strong><em>, Infection, Dominatrix</em> </strong>(waifu becoming a dominatrix)<strong><em>, Brainwashing Machine, Tentacles, Pillory, Masked Evil </em></strong>(A mask that possess' the waifu)<strong><em>, Latex Corruption, Hourglass Figure, Combat Drone</em> </strong>(hard to describe but basically making them a mindless sci-fi combat warrior)<strong><em>, JAV Supervillain, </em></strong>and<strong><em> Holding a Leash.</em></strong></p><p>And, uh, I want to make a few "normal" Locon's so I have an "<strong><em>knight-ify</em></strong>" your character one coming up. And a <strong><em>forest fairy </em></strong>one as well. And a <strong><em>officer</em></strong> one. And a <strong><em>barbarian</em></strong> one.</p><p><strong><em>Or just give me some random suggestion or priority opinions. That works too.</em></strong></p>

@@ -1,0 +1,31 @@
+## Yamer Model (Gen 1)
+### 一、模型概述
+
+- 标签：`anime`, `horror`, `futuristic`, `person`, `photorealistic`, `sexy`, `female`, `art`, `attractive`, `high quality`, `base model`, `gore`, `creepy`, `creepy pasta`, `model`, `potrait`, `new`, `lovecraftian`, `lovecraft`, `blood`, `horror fantasy`, `art style`, `woman`, `illustration`, `beautiful`, `fantasy`, `game character`, `girls`, `groteseque`, `hentai`, `male`, `man`, `photorealism`, `portraits`, `realistic`, `video game`, `trained`, `anime girl`, `artwork`, `nsfw`, `stylemix`, `anime style`, `mature`, `nsfw clothes`, `everything`, `nsfw concept`, `brutal`, `violet`, `anime_girl`, `yamer`
+- 下载数：239
+- 收藏人数：62
+- 评论人数：0
+- 评分人数：3
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] Yamer Gen1
+
+- 统计数据
+  - 发布时间：2023-05-30T21:19:37.607Z
+  - 原始模型：Other
+  - 下载数：239
+  - 评分人数：3
+  - 评分：5
+- 下载地址
+  - [yamerModelGen1_yamerGen1.safetensors](https://civitai.com/api/download/models/75020)
+  - [yamerModelGen1_yamerGen1.safetensors](https://civitai.com/api/download/models/75020?type=Model&format=SafeTensor&size=full&fp=fp32)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4f260a69-df2a-460f-8e3f-e0d8c9e8900c/width=450/841806.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dccee1b3-25b0-466e-ac6c-199565499aed/width=450/841797.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c370f9d1-85c3-4fc1-8218-015d6c9e9696/width=450/841837.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c6814dc9-e4c7-44fa-829a-80cab2dcae7f/width=450/841795.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h1 id="checkpoint-type-fantasycutehorrorart-conceptanime"><u>Checkpoint Type:</u></h1><h1 id="checkpoint-type-fantasycutehorrorart-conceptanime"><strong>Fantasy/General/Horror/Art Concept/Anime</strong></h1><p><br />Complete download: <a target="_blank" rel="ugc" href="https://civitai.com/api/download/models/75020?type=Model&amp;format=SafeTensor&amp;size=full&amp;fp=fp32"><strong>Click Here(5,28Gb)</strong></a> --- Pruned Download: <a target="_blank" rel="ugc" href="https://civitai.com/api/download/models/75020?type=Model&amp;format=SafeTensor&amp;size=pruned&amp;fp=fp16"><strong>Click Here(1,99Gb)</strong></a></p><p><u>Support me on Twitter:</u><span style="color:rgb(193, 194, 197)"> </span><a target="_blank" rel="ugc" href="https://twitter.com/YamerOfficial"><strong>@YamerOfficial</strong></a></p><p></p><p><em>This checkpoint has the versatility to create a wide range of visuals, it in fact a vanilla type model with no specific style, you can create various imagery, such as: "Birds flying in the sky" or "cat riding a bike", </em>its core objective remains firmly rooted in the creation ultra detailed and realistic imagery. 🖼️</p><p></p><p><em>Recommended use: </em><strong><em>Potraits of a singular individual </em></strong><em>(preferebbly in a horror environment)</em><strong><em>.</em></strong></p><h3 id="here-is-a-list-of-tested-modifications-for-this-model"><br /><strong>Here is a list of tested modifications for this model:</strong></h3><p></p><ul><li><p><strong>LoRA: </strong><a target="_blank" rel="ugc" href="https://civitai.com/models/20846/biomechanicals-hr-giger">Biomechanicals</a>, <a target="_blank" rel="ugc" href="https://civitai.com/models/42468?modelVersionId=47143">TentacleHorrorAI</a>, <a target="_blank" rel="ugc" href="https://civitai.com/models/67666?modelVersionId=73537">Weird ReelHorror</a> and <a target="_blank" rel="ugc" href="https://civitai.com/models/15464/a-mecha-musume-a">A-Mecha Musume</a></p><p></p></li><li><p><strong>Hypernetwork:</strong> <a target="_blank" rel="ugc" href="https://civitai.com/models/4247/dantionrealmix">DantionRealMix</a>, <a target="_blank" rel="ugc" href="https://civitai.com/models/3851?modelVersionId=4278">Venom Hypernetwork</a>, and <a target="_blank" rel="ugc" href="https://civitai.com/models/64989/terminatorsd512-v1">TerminatorSD512-V1</a></p><p></p></li><li><p><strong>Sampler:</strong> Euler Ancestral, DPM2 Ancestral</p><p></p></li><li><p><strong>GFPGAN: </strong>GFPGANv1.4</p><p></p></li><li><p><strong>ESRGAN: </strong>RealESRGAN_x4plus and RealESRGAN_x4plus_anime6B</p><p></p></li><li><p>Stable Diffusion version used: <strong>Easy Diffusion v2.5.36</strong><br /></p></li></ul><p><br /><em><s>Creator Note:</s></em><strong> "</strong>Please rate and support the model by leaving a like and a review if you had a positive experience. <em>Your feedback is highly appreciated!</em>" 💀</p><h2 id="suggestions-for-this-model"><br />Suggestions for this model:</h2><p></p><ol><li><p><strong>Recommended resolution:</strong> 576x876, 640x1024, 896x576 and 768x1024 <br /></p></li><li><p><strong>Recommended prompt: </strong>Post-apocalypse, Cult of Cthulhu, a dangerous looking sprinkled man green blood on top of a table with a alien head, peeled flesh, guro,broken creature, deadman, a dangerous looking sprinkled man green blood on top of a table with a alien head, with a lot of blood around, hyperrealism, hyper realistic color photo, realistic photography ((hnsrdlf style)), dark atmosphere, gothic art, realistic blood, RTX graphic, HDR, ultra detailed, ultra realistic shadows, ultra quality<br /></p></li><li><p><strong>Recommended negative prompt: </strong>out of frame, lowres, text, error, cropped, worst quality, low quality, jpeg artifacts, duplicate, wrong proportions, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature, easynegative, bad-hands-5, [negativebs:0.2], (low quality, worst quality:1.3), bad-picture-chill-75v, watermark, letters, words, censored, multiple fingers, multiple legs, bad hands</p></li></ol><p></p><p><a target="_blank" rel="ugc" href="https://www.youtube.com/watch?v=HcmxdkE4Bjo&amp;ab_channel=Yamer">Don't click this.</a></p>

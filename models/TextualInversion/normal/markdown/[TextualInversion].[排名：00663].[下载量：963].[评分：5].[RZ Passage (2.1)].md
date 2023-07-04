@@ -1,0 +1,30 @@
+## RZ Passage (2.1)
+### 一、模型概述
+
+- 标签：`concept`, `surrealism`, `portal`, `dimensional`, `sci-fi`, `conceptual`
+- 下载数：963
+- 收藏人数：234
+- 评论人数：7
+- 评分人数：1
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] 2.1 - 1.0
+
+- 统计数据
+  - 发布时间：2023-03-15T17:23:03.268Z
+  - 原始模型：SD 2.1 768
+  - 下载数：963
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [rz-passage.pt](https://civitai.com/api/download/models/14493)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea93a088-2ec7-400e-5e43-7eedc9279300/width=450/141571.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ef91b08b-9bfb-4fa7-f42d-e332cbe07c00/width=450/142165.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4993dc87-71a9-4131-cdf4-670c0a26e300/width=450/141570.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a0d4b94-c039-4279-bb8a-4d5798f81700/width=450/141569.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>Produce one-of-a-kind and breathtaking visuals of <strong>dimensional portals</strong> and imaginative conceptual artwork, with a focus on utilizing raw geometrical shapes.</p><p></p><img src="https://lh3.googleusercontent.com/SN0jDAIVz_ypbk4x5cbT9LN-g6BL7f4R852Awv-lxUvW6MQzWNW1zWVfPDGBrhoPfRLj9wZIzq2U6JA9SUhtQ7ELZRUTyrPKtJPlekD5uAk9nqfKoZn5Z6ztGHhO_1aoMSWQt4bAyXDDXxGddSee8l8" /><img src="https://lh4.googleusercontent.com/EJGUlD-aIRxGE4l4hlZTsQGM9c6QhVncn9EN6nU3GNqVvO8bqO1bl9dO4yBwy_kdVXKV6qANETayrPNdRvbgVkYYFErf28Qd7cQQtSd2j_Q4Oj5XZTepG_zZn1xgNA9f2vatp5aE-uh_sjV0mKcUw24" /><img src="https://lh3.googleusercontent.com/fWCWZZBwZnggcnT2nB5JdTrj_42gO3JAJ9AGe9sb8kaamwBWJTITCjHjJCzG--C3wCtbkuFAZUTrmpOqJ8nK3wOTtNphc4uW0JrtZkD7JRyeIkMwVVxvqmJ7wxANCVdjb2JvFo60RqKz46CTYofeVc4" /><p>The "getting started" prompts are located on the model preview pictures at the top of this page.</p><p></p><p>A good negative for starting your creations :</p><p><em>(bad art), (poorly drawn), (blurry), blur,boring, sketch, lackluster, signature, letters, watermark, big tits, big boobs, big chest, (frame), low resolution, oversaturated, intricate, complex,person, man, silhouette</em></p><p></p><p>optional negatives but recommended : ” <strong><em>(vivid colors), (vibrant)</em></strong></p><img src="https://lh4.googleusercontent.com/R17Iho25xIfWFaj0OpVYeIO3sNkU_GlgqFxQT5KsH8Mhialp8dkS0MSyBQId9m7tb3Bt6X0lv94bJIpR7nxLsviFftf7tOaK2ePqoEZR3tugp0dG0ncZvKW2gxPtKZhBXLvJVFkJ-lzzkzlL9cJcavc" /><p></p><p><em>Passage ext is available on </em><a target="_blank" rel="ugc" href="https://romerorz.gumroad.com/l/passage-ext"><strong><em>my GUMROAD</em></strong></a><em>, featuring :</em></p><ul><li><p><em>A different 704*704 trained dataset &amp; settings</em></p></li><li><p><em>More than 33 quality prompts &amp; a quick square-to-wide non-destructive tutorial</em></p></li></ul><p></p><p><em>Note that Passage Ext is not intended to be superior; it's a distinct approach that relies more on personal preference and feels. It still offers a more conceptual / geometric and smoother portals, can be weightened with passage for great different results</em></p><p></p><p>We can also note that squared vs vertical format output different things, see below</p><p></p><p><em>Quick preview comparing and combining </em><strong><em>Passage </em></strong><em>with </em><strong><em>Passage Ext</em></strong><em> with minimal prompting :</em></p><p></p><p><em>“A photorealistic landscape of a snowy mountain in winter, best quality, art by rz-passage, deviantart, trending on artstation”</em></p><p><em>Steps: 25, Sampler: DDIM, CFG scale: 7.5</em></p><p><em>768*768</em><br /></p><img src="https://lh5.googleusercontent.com/77uY1AJDcEqgpUSncn98uqbqWZIjycLxLZWCoEMC3ll3dBOy2cb2NCeRQiu70jSKi9_DLu0ryB2leriuW5ZwCqnGNhQsYURdZ5eXK9Wfh21Orj4HCp5TvcFbudqM8TdNq6nQhTqOohQeQM891Yl39bE" /><p><em>512*768</em></p><p></p><img src="https://lh4.googleusercontent.com/_z0poAnlNo1ibdq6KwIUTJLhtS5vsm567WNtlMqUCMhvrENHBO7tHG1AqPbEXOp4uZE3qP7pbvFWrL7yvshjOWwKV831ZuPfpWr_Ku1pqt4HD4q-Om9mJJhdpkJ_72pXJxtemZQfkyprxrc_145bJ0M" /><p></p><p><em>A photorealistic landscape of a desert with some cactus, best quality, art by (rz-passage), deviantart, trending on artstation</em></p><p></p><img src="https://lh3.googleusercontent.com/Ay8TAQunuZOFtXW_x4gzWv-_CnIXEHxaF4srib3cGextpnr7Dk_yEk8LJJrKvv_kXNot8vcxz8ZmX5DVZirMEBu1cZH3UutUnpnuXIX5mkeB6C1mMgPx-XGW99lsUgx5pS6mzLmfWPo_4v6JdzDj0F8" /><p></p><p><em>Preview of some </em><a target="_blank" rel="ugc" href="https://romerorz.gumroad.com/l/passage-ext"><strong><em>Passage Ext</em></strong></a><strong><em> </em></strong><em>&amp;</em><strong><em> </em></strong><em>prompts package</em><strong><em>:</em></strong></p><img src="https://lh3.googleusercontent.com/I2vOS_ml2HvTI6APwRMWnDiaGCQWnwdZ9ctiTSCuYpfFk1GSyQiinWUiWGNtDrhFrAdwoWdfUUqOKP9xMaYDwzrggYpuIMmJaLJRomf3Jv8ZNf1bTu6302WRoe3EJe24ex6uLahQIvGXRbv3WK6N6yA" /><img src="https://lh6.googleusercontent.com/OnG9Yvzvbw47Lq5twPTIMExQOaol9Kgu0wrh4aBYbctFnlE4QnLy_VqwLZD8bxaEtPTAhYP8Z5kXEkLpmL1rAZZbd49sm4u9VrsiEVPqvv6rsALafaDJ-mcHF8BvoByZCfX-M5bXAgGB5m5hzDSp9Ng" /><img src="https://lh6.googleusercontent.com/jK9EJZpmoAwW-2gR5SabPdY3HYRIcsBOJHX5JNjU5ZwMU2ztNcgYe6w5Mv2rUZHrJ5i4AuFLM3bawsuvCj1iJBCFdIMcXp-v-XwXEUujaSjfID3NzH-OyJFIPkP5TYBkctSC4xolnJN8V07XgEuZiZc" /><p><br />You can try the embeddings on <a target="_blank" rel="ugc" href="https://www.prompthunt.com/theme/cleh8442n000fms08ye7wqzzy"><strong>prompthunt</strong></a> by using this theme or loading "rzPassage" or "rzPassageExt" in your prompt on the website.</p><p></p><p>Happy generations everyone !</p><p><a target="_blank" rel="ugc" href="http://romerorz.art"><strong>romerorz.art</strong></a> - <a target="_blank" rel="ugc" href="https://twitter.com/romero_erzede"><strong>Twitter </strong></a>- <a target="_blank" rel="ugc" href="https://www.deviantart.com/romerorz"><strong>DeviantArt</strong></a> - <a target="_blank" rel="ugc" href="https://romerorz.gumroad.com/"><strong>Gumroad</strong></a></p>

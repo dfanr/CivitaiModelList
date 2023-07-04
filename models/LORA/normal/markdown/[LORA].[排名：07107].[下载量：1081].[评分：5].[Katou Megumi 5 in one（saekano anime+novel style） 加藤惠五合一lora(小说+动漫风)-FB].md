@@ -1,0 +1,30 @@
+## Katou Megumi 5 in one（saekano anime+novel style）/加藤惠五合一lora(小说+动漫风)-FB
+### 一、模型概述
+
+- 标签：`anime`, `character`, `female`, `cartoon`, `girls`, `characters`, `novel character`
+- 下载数：1081
+- 收藏人数：326
+- 评论人数：4
+- 评分人数：3
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] Katou_Megumi_FB_v1.0
+
+- 统计数据
+  - 发布时间：2023-06-21T08:52:57.069Z
+  - 原始模型：SD 1.5
+  - 下载数：1081
+  - 评分人数：3
+  - 评分：5
+- 下载地址
+  - [Katou_Megumi_FB_64.safetensors](https://civitai.com/api/download/models/100799)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b213d623-9f0d-424a-84da-bfc3da428317/width=450/1229813.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b8088ac-ba72-46e2-bd35-9b3806e2b4ab/width=450/1229815.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a9ea98f-3e3d-4c9c-bd4f-d958a3da23b9/width=450/1229816.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/034f0834-d01f-46d5-be98-98ca0a33cc4d/width=450/1229823.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p><span style="color:rgb(193, 194, 197)">5 in one lora, the </span><strong><u><span style="color:rgb(250, 82, 82)">Instructions</span></u></strong><span style="color:rgb(193, 194, 197)"> is followed</span></p><p><span style="color:rgb(193, 194, 197)"><img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c6a087e-e6d9-4fce-91a7-4e178b69b282/width=525/3c6a087e-e6d9-4fce-91a7-4e178b69b282.jpeg" /></span></p><p><strong>Trigger words :</strong> </p><p></p><p><strong><span style="color:#fa5252">Normal short hair: </span></strong><em><u>ph_katou, katouhdlong, katouhd</u></em></p><p><strong><span style="color:rgb(250, 82, 82)">Ponytail: </span></strong><em><u>ph_katou, katouhdshort, katoush, ponytail</u></em></p><p></p><p><strong>Novel style: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, hat, dress, brown hair, bangs, holding, short hair, jacket, open jacket, white headwear, brown eyes, open clothes, blush, white dress, red jacket, ribbon, long sleeves, beret, bow, neck ribbon, breasts, black ribbon, buttons, medium breasts, short dress, wing collar, manka</u></em></p><p></p><p><strong>White shirt: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, shirt, brown eyes, bangs, brown hair, short hair, white shirt, short sleeves, bag, center frills, collared shirt, dress shirt, frills, puffy sleeves, shoulder bag, blunt bangs, handbag, puffy short sleeves</u></em></p><p></p><p><strong>School uniform: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, black school uniform, short hair, skirt, bangs, brown eyes, brown hair, pleated skirt, black socks, kneehighs, school bag, serafuku, long sleeves, sailor collar</u></em></p><p></p><p><strong>Pink jacket: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, brown hair, short hair, brown eyes, bag, open mouth, handbag, bangs, shoulder bag, blush, pink jacket,</u></em></p><p></p><p><strong>T-shirt: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, hat, paper fan, brown eyes, short hair, bangs, shirt, brown hair, beret, collarbone, short sleeves, white shirt</u></em></p><p></p><p><strong>Necessary Trigger words: </strong>ph_katou, katouhdshort, 1girl, brown eyes, ponytail, short hair, </p><p><strong>If you want to change the outfit,</strong> use necessary trigger words only and add the prompt words for the clothing you want to (as far as it exist in your ckpt)</p><p><img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e620b418-0614-48ff-976a-6519c3b3a9d1/width=525/e620b418-0614-48ff-976a-6519c3b3a9d1.jpeg" /><br /><span style="color:rgb(193, 194, 197)">recomand to use Meinaalter V1 </span><a target="_blank" rel="ugc" href="https://civitai.com/models/20945/meinaalter">https://civitai.com/models/20945/meinaalter</a><span style="color:rgb(193, 194, 197)"> to generate, weight 0.9-1.0 is better</span></p><p>waiting for your comments and ❤ ※ (*&gt;.&lt;*)~</p><p></p><p><strong>触发词：</strong></p><p><strong>小说风格: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, hat, dress, brown hair, bangs, holding, short hair, jacket, open jacket, white headwear, brown eyes, open clothes, blush, white dress, red jacket, ribbon, long sleeves, beret, bow, neck ribbon, breasts, black ribbon, buttons, medium breasts, short dress, wing collar, manka</u></em></p><p></p><p><strong>白色衬衫: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, shirt, brown eyes, bangs, brown hair, short hair, white shirt, short sleeves, bag, center frills, collared shirt, dress shirt, frills, puffy sleeves, shoulder bag, blunt bangs, handbag, puffy short sleeves</u></em></p><p></p><p><strong>校服: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, black school uniform, short hair, skirt, bangs, brown eyes, brown hair, pleated skirt, black socks, kneehighs, school bag, serafuku, long sleeves, sailor collar</u></em></p><p></p><p><strong>粉色夹克: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, solo, brown hair, short hair, brown eyes, bag, open mouth, handbag, bangs, shoulder bag, blush, pink jacket,</u></em></p><p></p><p><strong>T-shirt: </strong><em><u>ph_katou, katouhdlong, katouhd, 1girl, hat, paper fan, brown eyes, short hair, bangs, shirt, brown hair, beret, collarbone, short sleeves, white shirt</u></em></p><p></p><p><strong>必要触发词: </strong>ph_katou, katouhdshort, 1girl, brown eyes, ponytail, short hair, </p><p><em><u><br /></u></em>如果想要更换着装的话，用必要提示词提示词，加上你想要的服装提示词就行了（前提是你的底模型里有这种服装）</p><p><img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b0f89da5-f435-47f9-9977-1b72c43a3689/width=525/b0f89da5-f435-47f9-9977-1b72c43a3689.jpeg" /></p><p><span style="color:rgb(193, 194, 197)">推荐使用 Meinaalter V1 </span><a target="_blank" rel="ugc" href="https://civitai.com/models/20945/meinaalter">https://civitai.com/models/20945/meinaalter</a><span style="color:rgb(193, 194, 197)"> 生成, 权重 0.9-1.0比较合适。</span></p><p></p><p>喜欢的话给个评论和点赞吧❤ ※ (*&gt;.&lt;*)~</p>

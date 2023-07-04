@@ -1,0 +1,30 @@
+## Kafka | Honkai Star Rail
+### 一、模型概述
+
+- 标签：`anime`, `character`, `woman`, `game character`, `video game`
+- 下载数：1547
+- 收藏人数：288
+- 评论人数：4
+- 评分人数：7
+- 评分：4.57
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] kafkaHSRv1
+
+- 统计数据
+  - 发布时间：2023-02-21T09:00:35.750Z
+  - 原始模型：SD 1.5
+  - 下载数：1547
+  - 评分人数：7
+  - 评分：4.57
+- 下载地址
+  - [kafkaHSR.safetensors](https://civitai.com/api/download/models/13447)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/71550a2f-7f0d-4eaf-810d-a2e342b93400/width=450/130078.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aac51079-0870-4018-e2af-a860ff72a700/width=450/130083.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/183d681c-61b2-4776-f5fa-4d7f06c30400/width=450/130082.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/54ae8406-addc-4a31-1f10-3a5060bb8200/width=450/130081.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>Hello...<br /><br />This is a LoRA for <strong>Kafka</strong> character from <strong>Honkai Star Rail</strong>, trained in <strong>Anythingv4.5</strong> for <strong>20 epochs</strong> with <strong>23 images * 10 repeats</strong>,</p><p></p><p>its match the character pretty well with model like anything or any anime models, for more information you can see the image previews.</p><p></p><p>for the weight i recommended using around <strong>0.6-0.8</strong>.</p><p></p><p>as for the trigger words, i think you can use</p><pre><code>kafka hsr, long_hair, breasts, looking_at_viewer, smile, bangs, shirt, gloves, long_sleeves, purple_eyes, jacket, white_shirt, ponytail, purple_hair, parted_lips, white_gloves, sunglasses, eyewear_on_head, smoke, rain</code></pre><p></p><p>i guess that is all, thanks you....</p><p></p><p>Edit:<br />So i forgot some images that i use for the preview using control net when looking for pose or propotions, Here some guide to use ControlNet</p><ul><li><p>Go towards extensions tabs and install this extension, <a target="_blank" rel="ugc" href="https://github.com/Mikubill/sd-webui-controlnet">https://github.com/Mikubill/sd-webui-controlnet</a></p></li><li><p>Download ControlNet model (<a target="_blank" rel="ugc" href="https://huggingface.co/lllyasviel/ControlNet/tree/main/models">https://huggingface.co/lllyasviel/ControlNet/tree/main/models</a>) (<em>recomended the openpose one) </em>and place it inside<em> </em><code>sd-webui-controlnet/models</code> extension folder</p></li><li><p>After installing, a tab named Control Net should be appeared in txt2img or img2img</p></li><li><p>Open the tab and use this <a target="_blank" rel="ugc" href="https://imgur.com/a/bFdv6hk">image</a> as a guidelines, pretty much use openpose preprocessor and openpose model then place the image that you want to use inside the tab.</p></li><li><p>Sometimes this method not working, you can use openpose stickman instead, <a target="_blank" rel="ugc" href="https://drive.google.com/drive/folders/1Rsx5GYFXwB8Xomky_y9L2iC6NqrMjc5z?usp=share_link">here my collection of openpose stickman</a> (set preprocessor to none like <a target="_blank" rel="ugc" href="https://imgur.com/a/SrujV0c">this</a>)</p></li><li><p>Then just generate images like usual, just leave the ControlNet enabled. the image should resemble the pose</p></li></ul><p></p><p><em>ps im just gonna leave some of this here :&gt;</em></p><p><a target="_blank" rel="ugc" href="https://www.pixiv.net/en/users/18297337"><em>pixiv</em></a></p><p><a target="_blank" rel="ugc" href="https://twitter.com/hanungaddi"><em>twitter</em></a></p><p><a target="_blank" rel="ugc" href="https://www.facebook.com/hanungaddi25/"><em>facebook</em></a></p>

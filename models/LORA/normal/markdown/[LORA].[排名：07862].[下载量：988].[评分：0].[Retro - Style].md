@@ -1,0 +1,30 @@
+## Retro - Style
+### 一、模型概述
+
+- 标签：`anime`, `retro`, `style`, `comic`
+- 下载数：988
+- 收藏人数：217
+- 评论人数：3
+- 评分人数：0
+- 评分：0
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-05-13T19:26:05.679Z
+  - 原始模型：SD 1.5
+  - 下载数：988
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [retro.safetensors](https://civitai.com/api/download/models/69897)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/90b9c517-4d30-4744-bdda-b947144e8976/width=450/780523.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec55a0be-f9e2-430f-9f99-3e53742ef891/width=450/780520.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/fc26f3ec-52c0-42c3-a36c-e3ad7fcd4ae5/width=450/780522.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea98a0f7-c49a-4b6f-94bb-79d6624ac700/width=450/780524.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h3><strong>IMPORTANT NOTICE: </strong></h3><p>Hello everyone! Lately in the comments I have often seen people complaining that my LoRA are similar to each other or are not representative of the style they should represent. My models are not trained on material from other artists, and it is therefore difficult to explain what the actual output should be. Since preparing the material necessary for the publication of a LoRA usually takes me a day's work, I have therefore decided not to post all my LoRAs on CivitAI anymore, but from today I will only post those that I consider interesting enough for the audience of this site. <strong>If you are interested in downloading the other LoRA as well, you will find them all for FREE (and they'll always be) on my </strong><a rel="ugc" href="https://www.patreon.com/Inzaniak"><strong>Patreon </strong></a><strong>page (subscribers will have early access to each of these)</strong>. Thank you all for your support!</p><p></p><h2><strong>I've started a community on Deviant Art to share images made with my models/LoRAs! Join </strong><a target="_blank" rel="ugc" href="https://www.deviantart.com/aimaginarium/"><strong>here </strong></a><strong>if you are interested!</strong></h2><p></p><p><strong>IF YOU ARE NEW TO STABLE DIFFUSION OR YOU HAVE PROBLEMS WITH MY MODELS, GO HERE: </strong><a target="_blank" rel="ugc" href="https://inzaniak.github.io/guide"><strong>Guide</strong></a></p><p><strong>IF YOUR PICTURES HAVE PROBLEMS, CHECK MY FAQ SECTION: </strong><a target="_blank" rel="ugc" href="https://inzaniak.github.io/stuff/FAQs.pdf"><strong>FAQs</strong></a></p><p></p><h3>What's this LoRA</h3><img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/306c2905-8d03-41d3-a898-6828ea40a515/width=525/306c2905-8d03-41d3-a898-6828ea40a515.jpeg" /><p>This is a LoRA trained on AI generated pictures of portraits of girls in the style of 1950s comics (made using Bing Image Creator). <strong>My models are not trained to achieve the exact style of their source, but to change the general vibe of the image.</strong> They are also fine-tuned on anime models, so they may not work perfectly with realistic ones.</p><p>The images in the examples are created using only this LoRA and different models (mainly my custom):</p><ul><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/24149">https://civitai.com/models/24149</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/26332">https://civitai.com/models/26332</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/28322">https://civitai.com/models/28322</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/32022">https://civitai.com/models/32022</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/33707">https://civitai.com/models/33707</a></p></li></ul><p>You don't need to specify a word to trigger this LoRA.</p><p></p><h3>Weights</h3><img src="http://192.168.1.63:7860/file=//192.168.1.93/d/Server/SDWebUI/webui/outputs/txt2img-grids/2023-05-14/xyz_grid-0001-1209556978.png" /><p></p><h3>Guides</h3><p>Learn how to create pictures like mine with my step-by-step tutorials:</p><ul><li><p><a target="_blank" rel="ugc" href="https://medium.com/p/bd7dbcd5ce4b">Beginner's Guide</a></p></li><li><p><a target="_blank" rel="ugc" href="https://medium.com/p/35eacb3dc5f4">Prompting</a></p></li><li><p><a target="_blank" rel="ugc" href="https://medium.com/@inzaniak/stable-diffusion-ultimate-guide-pt-3-high-resolution-a4f5d7b60f38">My Workflow</a></p></li><li><p><a target="_blank" rel="ugc" href="https://medium.com/p/772ea69472c9">Inpainting</a></p></li><li><p><a target="_blank" rel="ugc" href="https://medium.com/@inzaniak/stable-diffusion-ultimate-guide-pt-5-controlnet-6f45e9614119">ControlNet</a></p></li></ul><p><strong>If you want to create images with a high LoRA weight, I highly suggest you to check the tutorial.</strong></p><p></p><h3>Support My Work</h3><p><strong>Check out my Patreon for exclusive content (early access to my models and exclusive polls):</strong></p><p><a target="_blank" rel="ugc" href="https://www.patreon.com/Inzaniak">https://www.patreon.com/Inzaniak</a></p><p></p><p><strong>Do you want a custom LoRA or picture? Check out my commission page:</strong></p><p><a target="_blank" rel="ugc" href="https://www.deviantart.com/inzaniak/shop/commissions"><strong>LoRA and Picture Commissions</strong></a></p><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1af9f29b-5b4f-4c53-2d9e-583fc5208800/width=525/1af9f29b-5b4f-4c53-2d9e-583fc5208800.jpeg" /><p>If you want to support my work for <strong>free</strong>, you can also check out my music/art here:</p><ul><li><p><a target="_blank" rel="ugc" href="https://inzaniak.bandcamp.com/">Bandcamp</a></p></li></ul><ul><li><p><a target="_blank" rel="ugc" href="https://www.instagram.com/inzaniak_aiart/">Instagram</a></p></li><li><p><a target="_blank" rel="ugc" href="https://www.deviantart.com/inzaniak">DeviantArt</a></p></li></ul><p></p><p><strong>A Special Thanks to my Patreon and Deviant Art Subscribers:</strong></p><ul><li><p>Tatsuya Murakami</p></li><li><p>malakaigodlike</p></li></ul><p></p>

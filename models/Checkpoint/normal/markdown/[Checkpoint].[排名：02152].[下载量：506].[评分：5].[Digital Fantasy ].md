@@ -1,0 +1,48 @@
+## Digital Fantasy 
+### 一、模型概述
+
+- 标签：`anime`, `sexy`, `female`, `art`, `base model`, `woman`, `illustration`, `anything`, `girls`, `hentai`, `nsfw`, `i want to break free! xd`, `everything and anything all of the time, a little bit of tragedy?`, `something`
+- 下载数：506
+- 收藏人数：137
+- 评论人数：7
+- 评分人数：1
+- 评分：5
+
+### 二、下载地址（共2个版本）
+
+#### [版本2/共2个版本] 1
+
+- 统计数据
+  - 发布时间：2023-04-17T06:25:25.755Z
+  - 原始模型：SD 1.5
+  - 下载数：414
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [digitalFantasy_1.safetensors](https://civitai.com/api/download/models/47778?type=Model&format=SafeTensor&size=full&fp=fp16)
+  - [digitalFantasy_1.safetensors](https://civitai.com/api/download/models/47778)
+  - [kl-f8-anime2.ckpt](https://civitai.com/api/download/models/47778?type=VAE&format=Other)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3504d9bb-b226-4986-efad-bbc98b566300/width=450/514668.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4747213-d954-44c8-f3a8-ccdd7e103700/width=450/514667.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/48168e83-d7e4-407b-a511-c340dc72d400/width=450/514686.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/200cd9c9-81ba-4a9c-f587-7aa8d5538700/width=450/514675.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+#### [版本1/共2个版本] Beta
+
+- 统计数据
+  - 发布时间：2023-04-17T05:53:05.287Z
+  - 原始模型：SD 1.5
+  - 下载数：92
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [digitalFantasy_beta.safetensors](https://civitai.com/api/download/models/47010)
+  - [kl-f8-anime2.ckpt](https://civitai.com/api/download/models/47010?type=VAE&format=Other)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/93dc5978-f12f-4dec-771c-29825fbc8d00/width=450/507550.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7d31208c-7cf2-49ff-2adf-5696ae333e00/width=450/507555.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7b1b438d-0adf-4951-f578-ac930bc92e00/width=450/507542.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/360e7fbe-b625-4650-ee46-b48ada609a00/width=450/507547.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h1 id="heading-109">Digital Fantasy</h1><p><strong><em><u>THIS IS NOT the 1.5 DREAMBOOTH one!</u></em></strong></p><p>It has NOTHING to do with previous merges, despite it sharing a weirdly similar style</p><h2 id="heading-1677"><strong><em>HOW TO SUPPORT US:</em></strong></h2><h3 id="heading-366"><span style="color:rgb(130, 201, 30)">WE ARE PROUDLY SPONSORED BY: </span><a target="_blank" rel="ugc" href="https://www.piratediffusion.com/"><span style="color:rgb(130, 201, 30)">https://www.piratediffusion.com/</span></a></h3><p><strong>If you got requests, or concerns, We're still looking for beta testers: JOIN THE DISCORD AND DEMAND THINGS OF US: </strong><a target="_blank" rel="ugc" href="https://discord.gg/5t2kYxt7An"><strong><u>https://discord.gg/5t2kYxt7An</u></strong></a></p><p><strong>Lora Request Form: </strong><a target="_blank" rel="ugc" href="https://forms.gle/NEkcMmVEjG4pBAP7A"><strong>https://forms.gle/NEkcMmVEjG4pBAP7A</strong></a></p><p><strong>JOIN OUR SUBREDDIT: </strong><a target="_blank" rel="ugc" href="https://www.reddit.com/r/earthndusk/"><strong>https://www.reddit.com/r/earthndusk/</strong></a></p><p><strong><em>Listen to the music that we've made that goes with our art:</em><br /></strong><a target="_blank" rel="ugc" href="https://open.spotify.com/playlist/00R8x00YktB4u541imdSSf?si=b60d209385a74b38"><strong>https://open.spotify.com/playlist/00R8x00YktB4u541imdSSf?si=b60d209385a74b38</strong></a></p><p><strong><em><u>We stream a lot of our testing on twitch: </u></em></strong><a target="_blank" rel="ugc" href="https://www.twitch.tv/duskfallcrew"><strong><em><u>https://www.twitch.tv/duskfallcrew</u></em></strong></a></p><p><strong>Pre-Release Models, Lora Backups  - Send us pizza! </strong><a target="_blank" rel="ugc" href="https://ko-fi.com/DUSKFALLcrew"><strong>https://ko-fi.com/DUSKFALLcrew</strong></a></p><h3 id="heading-110">Backup Links:</h3><p></p><p><strong>Backups of Beta:</strong><a target="_blank" rel="ugc" href="https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasy.safetensors"><strong>https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasy.safetensors</strong></a><strong><br />Backup Beta CKPT: </strong><a target="_blank" rel="ugc" href="https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasy.ckpt"><strong>https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasy.ckpt</strong></a><strong><br />V1 Backup: </strong><a target="_blank" rel="ugc" href="https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasyNewv1.safetensors"><strong>https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasyNewv1.safetensors</strong></a><strong><br />V1 CKPT File: </strong><a target="_blank" rel="ugc" href="https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasyNew.ckpt"><strong>https://huggingface.co/Duskfallcrew/Digital-Fantasy/resolve/main/DigitalFantasyNew.ckpt</strong></a><strong><br /><em>Diffusers space: </em></strong><a target="_blank" rel="ugc" href="https://huggingface.co/spaces/Duskfallcrew/Digital-Fantasy-Anime"><strong><em>https://huggingface.co/spaces/Duskfallcrew/Digital-Fantasy-Anime</em></strong></a></p><p><strong>(This runs on free tier API, if there's a QUEUE please don't queue more, if it breaks, please either join the discord, duplicate the space on your private profile, OR pull a message on the repo and ask us to reset!)</strong></p><h3 id="heading-111">What you can do on this FREE DEMO SPACE:</h3><p><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2f197b95-c4e2-4cb8-9ec9-50eaf131d100/width=525/2f197b95-c4e2-4cb8-9ec9-50eaf131d100.jpeg" /></p><h3 id="heading-112">BUCKET OF JOY:</h3><p>Meina V9 <span data-type="mention" class="mantine-1yiar0p" data-id="mention:141871" data-label="Meina">@Meina</span> <br />Something 2.2 <span data-type="mention" class="mantine-1yiar0p" data-id="mention:61034" data-label="nocrypt">@nocrypt</span> <br />Epic Mix Illustration <span data-type="mention" class="mantine-1yiar0p" data-id="mention:129131" data-label="duskfallcrew">@duskfallcrew</span> <br />Duel Comix (Which Includes Comic Babes - which includes iComix &amp; Babes) <span data-type="mention" class="mantine-1yiar0p" data-id="mention:193432" data-label="noesca">@noesca</span> / <span data-type="mention" class="mantine-1yiar0p" data-id="mention:10921" data-label="lostdog">@lostdog</span> <span data-type="mention" class="mantine-1yiar0p" data-id="mention:4944" data-label="alexds9">@alexds9</span> <br />Color Boys 2D <span data-type="mention" class="mantine-1yiar0p" data-id="mention:647825" data-label="bodlo">@bodlo</span> <br />Blueboys2d <span data-type="mention" class="mantine-1yiar0p" data-id="mention:647825" data-label="bodlo">@bodlo</span> <br />Deepboys 2d <span data-type="mention" class="mantine-1yiar0p" data-id="mention:647825" data-label="bodlo">@bodlo</span> <br />Duskfall Test (OG) <span data-type="mention" class="mantine-1yiar0p" data-id="mention:129131" data-label="duskfallcrew">@duskfallcrew</span> <br />Duskfall AI <span data-type="mention" class="mantine-1yiar0p" data-id="mention:129131" data-label="duskfallcrew">@duskfallcrew</span> <br />Ironcatfatetoon <span data-type="mention" class="mantine-1yiar0p" data-id="mention:597458" data-label="IronCatMan">@IronCatMan</span> <br />Mind Player Floral Boys <span data-type="mention" class="mantine-1yiar0p" data-id="mention:450757" data-label="mindplayer">@mindplayer</span> <br />Color Box Model <span data-type="mention" class="mantine-1yiar0p" data-id="mention:34898" data-label="YozoRaAru">@YozoRaAru</span> <br />Osenayan Mix <span data-type="mention" class="mantine-1yiar0p" data-id="mention:129131" data-label="duskfallcrew">@duskfallcrew</span></p><p>...oh screw it we'll also share the merge screens we capped, because this was a VERY COMPLICATED MERGE (Not lying, we remixed similar ins and outs but didn't use block weight just weighted merge) - It took us MOST of today's twitch stream.</p><p>Not all of the merge mixes we made ended up back on our drive because of an error in</p><p>the process. We've tried to make sure we screencapped MOST of the process, but at this point we must've been distracted and only did half the screencaps.</p><p><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3add4c8a-7b95-4c22-c0ef-e45438139500/width=525/3add4c8a-7b95-4c22-c0ef-e45438139500.jpeg" /><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/a306cd38-9e43-4099-43fc-2ae7b17fc900/width=525/a306cd38-9e43-4099-43fc-2ae7b17fc900.jpeg" /><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e1e9d2fe-7395-46ea-6787-168469407000/width=525/e1e9d2fe-7395-46ea-6787-168469407000.jpeg" /><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/19a94d06-c930-4205-97e9-86d9dfb8db00/width=525/19a94d06-c930-4205-97e9-86d9dfb8db00.jpeg" /><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bb42b457-e1aa-427a-2262-df9ed93f6d00/width=525/bb42b457-e1aa-427a-2262-df9ed93f6d00.jpeg" /><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ec0e22e1-3748-48c0-97ad-f44db0b66500/width=525/ec0e22e1-3748-48c0-97ad-f44db0b66500.jpeg" /><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7fc14e98-944f-44fb-251a-8959d4e6e600/width=525/7fc14e98-944f-44fb-251a-8959d4e6e600.jpeg" /><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f3fd920-4ccf-45d1-1711-14ba8b086d00/width=525/1f3fd920-4ccf-45d1-1711-14ba8b086d00.jpeg" /></p>

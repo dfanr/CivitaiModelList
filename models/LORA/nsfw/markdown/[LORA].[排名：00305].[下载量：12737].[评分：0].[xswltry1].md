@@ -1,0 +1,30 @@
+## xswltry1
+### 一、模型概述
+
+- 标签：`girl`, `asian`
+- 下载数：12737
+- 收藏人数：173
+- 评论人数：1
+- 评分人数：0
+- 评分：0
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] xswltry1
+
+- 统计数据
+  - 发布时间：2023-03-25T21:47:22.050Z
+  - 原始模型：SD 1.5
+  - 下载数：12737
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [xswltry1.safetensors](https://civitai.com/api/download/models/29131)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/547e2661-04b0-43cb-ebb6-95c382ed8700/width=450/329028.jpeg" /> |
+| ---- |
+
+
+### 三、详情
+None

@@ -1,0 +1,30 @@
+## ACMAR G Mix | Amateur Deep Merge Model
+### 一、模型概述
+
+- 标签：`anime`, `sexy`, `style`, `art style`, `illustration`, `girls`, `portraits`, `landscape`
+- 下载数：868
+- 收藏人数：210
+- 评论人数：0
+- 评分人数：7
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] ACMAR G Mix FP16
+
+- 统计数据
+  - 发布时间：2023-05-15T23:44:15.587Z
+  - 原始模型：SD 1.5
+  - 下载数：868
+  - 评分人数：7
+  - 评分：5
+- 下载地址
+  - [acmarGMixAmateurDeep_acmarGMixFP16.safetensors](https://civitai.com/api/download/models/71761)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9daf252-3f0c-4339-9600-a76a8667bb9a/width=450/1001457.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6df41121-7ef8-4af4-9292-29307fd3bc6b/width=450/801816.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4e6d9eec-898f-463f-a7a4-546a8fe479c8/width=450/801829.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ed2bb03-47ed-44a9-b8f2-dcb716912769/width=450/801825.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p></p><img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f69a1682-14a0-436e-acd6-35380e7642ee/width=525/f69a1682-14a0-436e-acd6-35380e7642ee.jpeg" /><h2>How to use</h2><p><strong>Pos: masterpiece, best quality<br />neg: (worst quality, low quality:1.4)</strong><br />Done.</p><p>I prefer DPM ++ 2M Karras as main sampler, seem to work best in most cases. 12-20 steps.<br />Hires fix - anything you like. Lowest denoise boundary seem to be 0.53.</p><h2><u>About</u></h2><p><strong>Yet another anime model mix!</strong></p><p>Purpose of this model is to be decently diverse, high quality(obviously...), editable and not very leaky, while maintaining high usability and benefits of underlying models.</p><p><em>Or so i would say, if that was the truth.</em></p><h3>Model Story</h3><p>Real story of this model is that i explored deep merge a bit back in the day, because i was inspired a bit by exploration of block merged by AOM2. So, here i go down the rabbit hole... This model is a result of my nightly exploration in the dwellings of by-block merge.<br /><br />I can't say this is a very precise one, but it is also not a random guess. I loosely evaluated changes of IN00-IN11 blocks, and proceeded with merging all of blocks with rough estimation of values i would prefer. That was step one. This mix is <strong>double-deep-merge, </strong>and second step was mostly a shot in the dark, based on info i already got. It worked out first try, believe it or not.</p><h2>Merge Process</h2><p>I honestly don't remember exact values, i remember i saved them somewhere, and i will add them later if i would find them.</p><p>First step was merging "ACertainModel" or "Anything3"(or any other base model of your liking with similar style) with values that roughly add up to 43/57, but vary highly from block to block.</p><p>Next step is to sprinkle specific blocks of AOM2 in to that mix.</p><p>Though, remember, mixing mixes is bad, it's hard to train, especially with D-Adaptation. But it eats all kinds of loras well. Preferrably trained on NAI.</p><h2>What's it good at?</h2><img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e733b8e-4d88-4f7e-9884-1d1eba47b80f/width=525/6e733b8e-4d88-4f7e-9884-1d1eba47b80f.jpeg" /><p>ACMAR G Mix is general anime model, so it will be good at pretty much anything that you would expect from general anime model, including utilisation of LoRAs(this is what many more stands for)</p><p>It has enchanced capabilities at 2.5 and 3D thanks to AniReal and AOM2 included in mix.</p><p>It is unlikely to be capable of hard nsfw without LoRAs, but general one is, of course, very basic feature.</p><p>Lineart/sketch style is quite decent too.</p><p>Lower bound for denoising in hires fix seem to be 0.53, which is quite low.</p><p></p><p>This model is the one im using to generate most arts for previews of my LoRAs, so you will be able to repeat them.</p><h3>Pros i didn't expect?</h3><p>For some reason it's capable of generating 1024x1024 base resolution decently and reliably enough, at least in my case. Couple times i even got it to generate good 1536x1536 natively(no hires. fix).</p><img src="https://cdn.discordapp.com/attachments/1099229166865481829/1107640544441667614/00024-1147741971.png" /><p>(This is rare 1536x1536)</p><img src="https://cdn.discordapp.com/attachments/1099229166865481829/1107638813364330516/00014-2480759426.png" alt="https://cdn.discordapp.com/attachments/1099229166865481829/1107638813364330516/00014-2480759426.png" /><p>(And this is common 1024x1024 hires to 2048x2048)</p><p>It is usually more stable than AOM2 at more unusual aspect ratios and composition in general, at least from my tests, but be aware that it can be just random, as i didn't test extensively.</p><img src="https://cdn.discordapp.com/attachments/1099229166865481829/1107637593488764989/00003-3133570173.png" /><p>Also btw, don't you also love extra wide face shots?</p><img src="https://cdn.discordapp.com/attachments/1099229166865481829/1107643091680239666/00064-2292156973.png" /><p>Extra long (3:1(512x1536)) generations are possible natively too, quite stable. Same goes for wide.</p><h2>Section for trainers</h2><p>It is not very vital to train based on this model, other than embeddings. It will overtrain very easily. If you are a user of D-Adaptation - don't bother, i spent days figuring out various parameters and still they weren't behaving as expected at higher ranks...</p><p>Also my internet is too bad to upload FP32 initially, so you'll have to wait :D</p><p></p><p>Hey, if you have read all that, i don't like to ask that, but i would really appreciate a monetary support - <a target="_blank" rel="ugc" href="https://www.patreon.com/anzhc">https://www.patreon.com/anzhc</a></p><p>This will help me with training and providing AI stuff further.</p>

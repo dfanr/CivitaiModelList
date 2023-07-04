@@ -1,0 +1,30 @@
+## Busy Philipps
+### 一、模型概述
+
+- 标签：`celebrity`
+- 下载数：195
+- 收藏人数：26
+- 评论人数：0
+- 评分人数：0
+- 评分：0
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-06-26T19:50:03.447Z
+  - 原始模型：SD 1.5
+  - 下载数：195
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [busyph1.pt](https://civitai.com/api/download/models/103106)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/59b1f429-42ab-44e6-a8a3-b6446c85b789/width=450/1273901.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9a93076e-f2ad-449d-9254-3323d41599ec/width=450/1273903.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c12ecdce-eb3b-4d9a-bbb7-6199689079b3/width=450/1273900.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/75d8d558-86cd-4426-bdb3-4fc99b6975df/width=450/1273902.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>follow me on <a target="_blank" rel="ugc" href="https://www.instagram.com/paranoidamerican/">Instagram</a>, <a target="_blank" rel="ugc" href="https://www.youtube.com/@ParanoidAmerican/">Youtube</a>, <a target="_blank" rel="ugc" href="https://www.patreon.com/ParanoidAmerican">Patreon</a> and my <a target="_blank" rel="ugc" href="https://paranoidamerican.com/">website</a>.</p><p></p><h1 id="heading-120">Busy Philipps</h1><p><strong>Suggested Weight: 1.0</strong></p><p></p><h2 id="heading-121">Training</h2><ul><li><p>trained on ~30 images</p></li><li><p>Learning Rate: 0.005:1000, 0.001:2000, 0.0001:5000, 0.00005</p></li><li><p>Total Steps: 15,000</p></li><li><p>Batch Size: 1</p></li><li><p>Gradient Steps: 1</p></li></ul>

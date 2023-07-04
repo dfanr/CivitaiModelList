@@ -1,0 +1,30 @@
+## djz Retro Horizon
+### 一、模型概述
+
+- 标签：`retro`, `style`, `horizon`, `djz`
+- 下载数：79
+- 收藏人数：25
+- 评论人数：0
+- 评分人数：0
+- 评分：0
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v21
+
+- 统计数据
+  - 发布时间：2023-03-31T10:03:55.314Z
+  - 原始模型：SD 2.1 768
+  - 下载数：79
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [djzRetroHorizon_v21.safetensors](https://civitai.com/api/download/models/32077)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/00091b41-db5f-4ab4-94ff-d004e5b6da00/width=450/365033.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/04f20ffd-f43e-471a-80d7-84ecbd7f6100/width=450/365042.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6459c378-bdc4-4915-fbdb-8a0c88de2a00/width=450/365041.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cee60ac6-1199-4792-ee3a-c70596326f00/width=450/365040.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>Demo images use <a target="_blank" rel="ugc" href="https://civitai.com/models/20517/danger-zoo-johnsons-negative-embeddings-helper-collection">Danger Zoo ~ Johnsons Negative TI Collection ~</a><br />Lora version: <a target="_blank" rel="ugc" href="https://civitai.com/models/19865/djz-retro-horizon">djzRetroHorizon</a><br /><br />These "strong style" Models are intended to be merged with each other and any model for Stable Diffusion 2.1</p><p>I recommend merging with 0.5 (50/50 blend) then using prompt weighting to control the Aesthetic gradient.</p><p>example merged model prompt with automatic1111:</p><p><strong>(retrohorizon:1) (othermodeltoken:1)</strong></p><p>if you drop the "djz" and the "V21" what remains is the token you need to call up the concept in the model. All examples shown were the Raw Token, no other words. Tokens are case sensitive and in almost all models it will match the filename.</p><p>It is possible to merge these models with each other using a different value. It is possible to pair models and then merge those resulting models. In this way we can blend abstract concepts together and then weight the tokens to achieve the result we may wish to create. Of course to eliminate all those tokens, you can simply train a new custom model from the outputs, which means you are back to a single token.</p>

@@ -1,0 +1,30 @@
+## Body Horror Creatures
+### 一、模型概述
+
+- 标签：`horror`, `creatures`, `gross`, `monsters`, `gore`, `style`, `disgusting`, `body horor`
+- 下载数：6758
+- 收藏人数：1476
+- 评论人数：33
+- 评分人数：37
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-04-26T11:23:43.829Z
+  - 原始模型：SD 1.5
+  - 下载数：6758
+  - 评分人数：37
+  - 评分：5
+- 下载地址
+  - [BodHor-V1.safetensors](https://civitai.com/api/download/models/55777)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8df7120c-c4c6-4f59-fa36-fca33e803c00/width=450/604250.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7a0cbe81-849d-491e-5b54-5246be449700/width=450/604248.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/afd47a6a-1793-42a8-b53d-2f78ae2bcc00/width=450/604348.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d22c6abe-e365-47dc-3061-6f9afe6c6e00/width=450/604420.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>This is my first lora so it's not great as I'm still learning but you can still get some interesting results. I will try and update it at some point but I thought I'd upload this version for people to play with.</p><p></p><p>I'm a big fan of movies like "The Thing" and wanted to trya nd recreate some similar creature effects. As there didn't seem to be many loras like this around I thought I would give it a try.</p><p></p><p>I didn't add any triggers but it works well with the words "disgusting body horror creature".</p><p>You can change the word "creature" for something else like "person" or "dog" for example but in some models it will always try and add human forms, most likely because of using the word "body" in the prompt. I will try and add some triggers in the next version.</p><p></p><p>At high levels it can create some pretty gross stuff but at lower levels and combined with other loras it can also create some nice creature effects.</p><p></p><p>I tested it on quite a few different models and it seems to work well for realistic stuff as well as anime.</p><p></p><p>Models used:</p><ol><li><p>Model: 1.5_Models_Realistic_photomaxultrav1_, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/15659/photomaxultrav1">https://civitai.com/models/15659/photomaxultrav1</a></p></li><li><p>Model: 1.5_Models_Digital_Art_cardosAnimated_v20, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/22220/cardos-animated">https://civitai.com/models/22220/cardos-animated</a></p></li><li><p>Model: 1.5_Models_RPG_rpg_V4, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/1116/rpg">https://civitai.com/models/1116/rpg</a></p></li><li><p>Model: 1.5_Models_RPG_aToZovyaRPGArtistsTools15_sd15V1, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/8124/a-zovya-rpg-artist-tools">https://civitai.com/models/8124/a-zovya-rpg-artist-tools</a></p></li><li><p>Model: 1.5_Models_Realistic_edgeOfRealism_edgeOfRealismNOVAE, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/21813/edge-of-realism">https://civitai.com/models/21813/edge-of-realism</a></p></li><li><p>Model: 1.5_Models_Digital_Art_dreamshaper_4NoVae, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/4384/dreamshaper">https://civitai.com/models/4384/dreamshaper</a></p></li><li><p>Model: 1.5_Models_Anime_ranmaDiffusionV1, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/1484/ranmadiffusion">https://civitai.com/models/1484/ranmadiffusion</a></p></li><li><p>Model: 1.5_Models_Anime_mistoonAnime_v10, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/24149/mistoonanime">https://civitai.com/models/24149/mistoonanime</a></p></li><li><p>Model: 1.5_Models_Anime_pikasAnimatedMix_10Pruned, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/32739/pikas-animated-mix">https://civitai.com/models/32739/pikas-animated-mix</a></p></li><li><p>Model: 1.5_Models_Anime_Midnight Melt, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://huggingface.co/DrBob2142/Midnight_Mixes">https://huggingface.co/DrBob2142/Midnight_Mixes</a></p></li><li><p>Model: 1.5_Models_Anime_revAnimated_reva1, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/7371/rev-animated">https://civitai.com/models/7371/rev-animated</a></p></li><li><p>Model: 1.5_Models_Digital_Art_stablydiffusedsWild_351, Clip skip: 2</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/4559/stablydiffuseds-wild-mix">https://civitai.com/models/4559/stablydiffuseds-wild-mix</a></p></li><li><p>Model: 1.5_Models_Cartoon_comicBabes_v1, Clip skip: 2</p><p><a target="_blank" rel="ugc" href="https://civitai.com/models/20294/comic-babes">https://civitai.com/models/20294/comic-babes</a></p></li></ol><p></p><p>Loras used:</p><ol><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/16431/funny-creatures">https://civitai.com/models/16431/funny-creatures</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/28857/flashlight-photography">https://civitai.com/models/28857/flashlight-photography</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/7718/painted-miniature">https://civitai.com/models/7718/painted-miniature</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/47489/manyeyedhorrorai">https://civitai.com/models/47489/manyeyedhorrorai</a></p></li></ol><p></p><p>TI used:</p><ol><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/5392/necromancy-style">https://civitai.com/models/5392/necromancy-style</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/179/vkuoo1">https://civitai.com/models/179/vkuoo1</a></p><p></p></li></ol><p></p><p></p>

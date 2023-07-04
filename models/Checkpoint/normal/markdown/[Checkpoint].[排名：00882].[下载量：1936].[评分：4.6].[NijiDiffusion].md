@@ -1,0 +1,31 @@
+## NijiDiffusion
+### 一、模型概述
+
+- 标签：`anime`, `girl`, `person`, `female`, `niji`, `style`, `art style`, `woman`, `illustration`, `beautiful`, `girls`, `portraits`, `women`, `nijijourney`, `landscape`
+- 下载数：1936
+- 收藏人数：734
+- 评论人数：10
+- 评分人数：5
+- 评分：4.6
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] Half
+
+- 统计数据
+  - 发布时间：2023-06-14T11:47:41.594Z
+  - 原始模型：SD 2.1 768
+  - 下载数：1936
+  - 评分人数：5
+  - 评分：4.6
+- 下载地址
+  - [nijidiffusion_half.yaml](https://civitai.com/api/download/models/59885?type=Config&format=Other)
+  - [nijidiffusion_half.safetensors](https://civitai.com/api/download/models/59885)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52ec6f6e-b234-4af5-8304-f00d49ffd4ce/width=450/1140790.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c49ec05f-2109-4cc4-8ee4-99072f2191e4/width=450/1201065.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ab2995f-3efc-4b69-b17c-8caead27bdf1/width=450/1140800.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6e248684-2a65-4044-ad4a-b7af1bf341d6/width=450/1140801.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>Other download: <a target="_blank" rel="ugc" href="https://drive.google.com/uc?id=1990Jo1FnMuwbBZfWYypBdtecMPFBW0at">https://drive.google.com/uc?id=1990Jo1FnMuwbBZfWYypBdtecMPFBW0at</a><span style="color:rgb(219, 222, 225)"> </span><a target="_blank" rel="ugc" href="https://drive.google.com/uc?id=1zZzJ7jhDQgKGJXnN4BvIzxe7Rtd05TmH">https://drive.google.com/uc?id=1zZzJ7jhDQgKGJXnN4BvIzxe7Rtd05TmH</a></p><p></p><p>\/ READ THE RECOMMENDED SETTINGS FOR BETTER RESULTS \/</p><p>Recommended settings:</p><p>Sampling method: Euler A, (found the best results with Eular A, 2nd best DMP++ SDE Karras)</p><p>Sampling steps: 24 and higher</p><p>CFG Scale: 1-3 (go as low as possible)</p><p>Resolution: if you want to generate girls consistently do portrait 768 which is 624x936 you can mess around with the ratios, landscapes make sure not to go above 1200 res on either height or width and you're all good</p><p>Try using portraits for girls and wide for landscapes</p><p>Using VAE might make the image quality worse</p><p>If the style doesn't show try adding "a painting of..."</p><p>Try use "text, signature, watermark, username, artist name, trademark," for negative prompts to not get the signature thing.</p><p>This model was trained on 624x936 936x624 just so you know.</p><p></p><p>This model was original a pretest but ended up pretty good. It has a pretty limited dataset only trained on (Landscape, girl) so if you try generating a man it'll look weird. The final release v2.1 might be out within this month if I gain access to a good GPU to train. The model after that will be v3, it will have easier prompting.</p><p></p><p>This was trained on Niji expressive images I specifically selected then color graded them.</p><p></p><p>(edit the result might not be great if you use these) prompt regularly and you'll get good results, be simple.</p><p>Here are some prompts you can try:</p><p>Horizontal:</p><p>a woman with a sword in her hand and a hairdow in her hair, with a large, feathered headpiece, looks into the distance, NIJIFTB</p><p>a painting of a rocky path with flowers and rocks on either side of it and a sky background with clouds and sun shining through the trees and flowers, NIJIFTB</p><p>a painting of a mountain with a lake in front of it and a forest in the background with a few clouds in the sky above it and a few trees, NIJIFTB</p><p>a painting of a mountain valley with flowers and trees in the foreground and a stream running through the valley below, with a mountain in the background, NIJIFTB</p><p>a painting of a mountain lake with trees and a house in the foreground and a snow capped mountain in the background with a blue sky and white, NIJIFTB</p><p>a painting of a man walking through a field with a mountain in the background and red flowers on the ground in the foreground, and a blue sky with clouds, NIJIFTB</p><p>a painting of a man riding a horse in a mountain valley with a stream running through it and a mountain range in the background with snow capped mountains, NIJIFTB</p><p>a painting of a landscape with a stream and trees in the background and a house on a hill in the distance with a blue sky and white clouds, NIJIFTB</p><p>a painting of a house in a field with flowers and a stream running through it, with a sky background and clouds in the sky above it, NIJIFTB</p><p>a painting of a couple of horses in a field with mountains in the background and a stream running through the grass and flowers in the foreground, NIJIFTB</p><p>a digital painting of a cat in the snow with snowflakes on it's fur and eyes, with a blurry background of snow, NIJIFTB</p><p></p><p>Vertical:</p><p>a cartoon character with a pink hair and blue eyes wearing a blue dress and pink earrings and a blue dress with pink flowers on it's shoulders, NIJIFTB</p><p>a cartoon character with pink hair and a cat ears on her head and a black cat outfit on her body and a pink collar and tail on her head, NIJIFTB</p><p>a doll with red hair and blue eyes wearing a green shirt and pink tie and pink pants and a pink and green jacket with a pink collar, NIJIFTB</p><p>a woman with blonde hair and blue dress sitting on a floor with her hand on her chin and her hand on her chin, looking to the side, NIJIFTB</p><p>a woman with blue hair and a blue jacket sitting on a chair with her hands on her face and her hands on her chin, her chin, NIJIFTB</p><p>a woman with blue hair and a flower shirt on, with her arms crossed and her eyes closed, is smiling at the camera, with a blue sky in the background, NIJIFTB</p><p>a woman with blue hair and a green shirt is sitting down and looking at the camera with her hand on her chin and her hand on her chin, NIJIFTB</p><p>a woman with green hair and a green jacket sitting on a stool with her hand on her chin and her hand on her cheek, with her chin resting her chin, NIJIFTB</p><p>a woman with long white hair and a cat ears hat is sitting on the floor with her hand on her chin and her hand on her chin, NIJIFTB</p>

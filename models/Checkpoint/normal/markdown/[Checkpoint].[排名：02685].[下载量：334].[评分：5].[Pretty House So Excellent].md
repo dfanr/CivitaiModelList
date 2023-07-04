@@ -1,0 +1,31 @@
+## Pretty House So Excellent
+### 一、模型概述
+
+- 标签：`landscapes`, `architecture`, `buildings`, `historical`
+- 下载数：334
+- 收藏人数：75
+- 评论人数：1
+- 评分人数：1
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1
+
+- 统计数据
+  - 发布时间：2023-01-19T21:55:50.061Z
+  - 原始模型：SD 1.5
+  - 下载数：334
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [prettyHouseSo_v1.ckpt](https://civitai.com/api/download/models/5560?type=Model&format=PickleTensor&size=full&fp=fp16)
+  - [prettyHouseSo_v1.safetensors](https://civitai.com/api/download/models/5560)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/eef632d6-4de1-4063-bce7-f9e23577f300/width=450/44384.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/06f281cb-6d51-4128-f8a4-d8818a9e5800/width=450/44287.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0fe47ef5-7bb8-469f-d35d-87ec29f12d00/width=450/44364.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8feb6ed4-d6eb-467e-18b9-c051ac78ce00/width=450/44273.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>This model is designed to capture the historical building techniques, vivid colors, sharpness, and richness of colors found in photographs of traditionally built homes and flowers from various parts of the world. However, this model may not be suitable for creating realistic people, as people typically appear in the background of photographs included in the dataset. That being said, when the phrase trigger word is not used or is de-emphasized by moving it to the end of the prompt, the effects can be quite interesting.</p><p></p><p>The examples I provide were made using the ckpt file.</p><p></p><p>I would love to see what you come up with so please post your results!<br /></p><p>To trigger the style this model is is trained on use <strong>phse</strong></p><p></p><p>The negative prompt I use in the examples was cutoff.  It is "pastel".</p><p></p><h1>Cool Prompt Ideas</h1><p>Below are keywords that can be used with this model and others that I use and have had results I like.</p><p></p><h2>Roof Types:</h2><p>1. Thatch Roof: made from straw and vegetation.</p><p>2. Shingle Roof: made from overlapping pieces of material.</p><p>3. Shake Roof: made from split logs.</p><p>4. Clay Tile Roof: made from baked clay.</p><p>5. Slate Roof: made from thin pieces of stone.</p><p>6. Turf Roof: made from sod and vegetation.</p><p>7. Log Roof: made from logs.</p><p>8. Metal Roof: made from metal sheets.</p><p>9. Green or Living Roof: made from vegetation and soil.</p><p>10. Straw Roof: made from straw.<br /></p><h2>House Types:</h2><p>1. Log Cabin: made from logs.</p><p>2. Adobe House: made from earthen material.</p><p>3. Tudor House: made from brick and stucco.</p><p>4. Cottage: small house with a rustic look.</p><p>5. Colonial House: made from wood and brick.</p><p>6. Cape Cod: made from wood, shingles, and clapboard.</p><p>7. Bungalow: small, one story house.</p><p>8. Saltbox House: asymmetrical two story house.</p><p>9. Pueblo House: made from adobe mud bricks.</p><p>10. Victorian House: characterized by ornate details.<br /></p><h2>Weather Conditions:</h2><p>1. Rain: precipitation in liquid form.</p><p>2. Snow: frozen precipitation.</p><p>3. Hail: frozen rain.</p><p>4. Sleet: mixture of rain and snow.</p><p>5. Fog: air filled with water droplets.</p><p>6. Sun: direct light from the sun.</p><p>7. Wind: air in motion.</p><p>8. Storm: strong wind and rain.</p><p>9. Cloudy: sky filled with clouds.</p><p>10. Humid: high moisture levels in the air.</p><p></p><h2>Times of Day:</h2><p>1. Dawn: start of morning.</p><p>2. Morning: time after dawn.</p><p>3. Noon: midday.</p><p>4. Afternoon: time between noon and evening.</p><p>5. Evening: late afternoon and early night.</p><p>6. Dusk: end of the day.</p><p>7. Night: time between dusk and midnight.</p><p>8. Midnight: middle of the night.</p><p>9. Sunrise: start of morning.</p><p>10. Sunset: end of the day.</p><h2>Landscaping:</h2><p>1. Rock Garden: garden using rocks and plants.</p><p>2. Water Garden: garden with a water feature.</p><p>3. Raised Bed Garden: garden with elevated beds.</p><p>4. Formal Garden: symmetrical and geometric design.</p><p>5. Knot Garden: garden with geometric designs.</p><p>6. Kitchen Garden: garden for growing food.</p><p>7. Topiary Garden: garden with sculpted plants.</p><p>8. Labyrinth Garden: garden with winding paths.</p><p>9. Conservatory Garden: garden with a greenhouse.</p><p>10. Cottage Garden: garden with informal design.</p><h2>Camera Angles:</h2><p>1. High Angle: shot from above.</p><p>2. Low Angle: shot from below.</p><p>3. Wide Angle: shot with a wide field of view.</p><p>4. Bird's Eye View: shot from above the subject.</p><p>5. Close-Up: shot with a tight field of view.</p><p>6. Over the Shoulder: shot from behind the subject.</p><p>7. Tracking Shot: shot from a moving vehicle.</p><p>8. Dutch Angle: shot with the camera tilted.</p><p>9. Follow Shot: shot tracking the subject.</p><p>10. Panning Shot: shot with a slow side-to-side motion.</p><p></p><h2>Color Film Types:</h2><p>1. Fuji Reala: high color reproduction.</p><p>2. Kodak Portra: fine grain and vivid colors.</p><p>3. Kodak Kodachrome: vivid blues and greens.</p><p>4. Kodak Ektachrome: saturated colors and fine grain.</p><p>5. Agfa Optima: fine grain and neutral colors.</p><p>6. Konica Centuria: natural colors and sharpness.</p><p>7. Ilford XP2: high sharpness and accurate color.</p><p>8. Fuji Superia: true-to-life colors and fine grain.</p><p>9. Kodak Elite Chrome: bright colors and fine grain.</p><p>10. Agfa Vista Plus: natural colors and high sharpness.<br /></p><h2>Black and White Film Types:</h2><p>1. Ilford HP5 Plus: fine grain and high sharpness.</p><p>2. Kodak Tri-X: fine grain and wide tonal range.</p><p>3. Fuji Neopan Acros: fine grain and deep blacks.</p><p>4. Kodak T-Max: fine grain and wide exposure latitude.</p><p>5. Agfa APX: fine grain and sharpness.</p><p>6. Rollei Retro 80S: fine grain and wide tonal range.</p><p>7. Ilford Delta: fine grain and wide exposure latitude.</p><p>8. Kodak Panatomic-X: fine grain and wide tonal range.</p><p>9. Ilford FP4 Plus: fine grain with great tonal range.</p><p>10. Adox CHS 25 II: fine grain with great tonal range.</p><p><br /></p>

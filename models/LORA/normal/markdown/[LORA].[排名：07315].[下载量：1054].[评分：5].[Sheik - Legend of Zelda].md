@@ -1,0 +1,45 @@
+## Sheik - Legend of Zelda
+### 一、模型概述
+
+- 标签：`anime`, `character`, `zelda`, `waifu`, `woman`, `sheik`
+- 下载数：1054
+- 收藏人数：216
+- 评论人数：4
+- 评分人数：2
+- 评分：5
+
+### 二、下载地址（共2个版本）
+
+#### [版本2/共2个版本] Sheikv2.0
+
+- 统计数据
+  - 发布时间：2023-04-23T01:28:20.485Z
+  - 原始模型：SD 1.5
+  - 下载数：820
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [SheikZv2.safetensors](https://civitai.com/api/download/models/52840)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/27e8725c-f128-4ff3-2d27-c69276181f00/width=450/570247.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/45790d06-0d27-44ee-5c98-13d1a4a1ea00/width=450/570244.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4b7997c6-9336-45f3-378e-f4c6bddc3f00/width=450/570245.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/61ef9d20-7353-4d67-427a-d25245ec6400/width=450/570243.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+#### [版本1/共2个版本] Sheikv1.0
+
+- 统计数据
+  - 发布时间：2023-04-23T01:26:09.120Z
+  - 原始模型：SD 1.5
+  - 下载数：234
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [SheikZ.safetensors](https://civitai.com/api/download/models/51107)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c70b6dac-5a1a-4c72-346a-59e7e199f600/width=450/550240.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e1ae20e1-687e-4912-0981-8a525da1fc00/width=450/550239.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dee4a4c8-3aa3-491c-75a8-8caa72397800/width=450/550238.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/65a06524-f156-4ffa-c04f-abe34463b900/width=450/550233.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p><strong>V2 Note: </strong>Rebuilt it from feedback of inflexibility. Tried new things and it seeeeems better at 0.7 when switching around outfits. Important note though is for the base outfit now, make sure you use the bodysuit tag. And still use braid if you want to keep the hair at 0.7 weight.  Also, importantly, the pictures are still from v1 if you want to try the old one yourself.</p><p><strong>Note #1: </strong>Wanted to try to mix it with my in development, quite NSFW, <strong><em><u>Broken and Defeated</u></em></strong> Locon but TOS wouldn't allow it to be uploaded. Check it out on my twitter here but warning, it is definitely NSFW and violent (<a target="_blank" rel="ugc" href="https://twitter.com/TwoMoreTimes89/status/1649825051565506565/photo/1">https://twitter.com/TwoMoreTimes89/status/1649825051565506565/photo/1</a>). If the Locon won't be able to be uploaded here once it's ready, I'll have to find somewhere else to put it. Recommendations appreciated!</p><p><strong>What does it do you ask? </strong>Who could this be? I'm not sure but it's definitely not Zelda dressed as Sheik. Totally not. And totally not spoilers. So put this unknown figure into your Stable diffusion so you can make some dope images with them. To change outfits, don't use the trigger word SheikZ and lower weight to 0.5 to 0.7, as I had to train it hard and removing those two things give flexibility..</p><p><strong>How to use it:</strong></p><p>(I use Sampling Method DPM++ SDE Karras and Upscaler R-ESRGAN 4x+ Anime6B). Will need ~0.5 to 0.7 weight to get good clothing changes (as well as probably removing the trigger word of SheikZ), as I had to train it to get all the details right on the outfit she usually wears.</p><p><u>Main Triggers</u></p><p><em>SheikZ -</em> The main trigger word and then...</p><p><em>WMASK or NMASK - </em>Depending if you want to emphasize her mask appearing or not.</p><p><u>Highly Recommended Tags</u></p><p><em>bodysuit, braid -</em> Bodysuit helps make sure her bodysuit shows up well. Don't use it when changing clothes. Braid is if you want to keep her hair between clothing changes.</p><p>And then whatever else you want!</p><p><strong>Extra, Extra!:</strong> Should be well trained and usable in most models. Images shown for example.</p><p><strong>Picture Descriptions:</strong></p><p>1: AbyssOrange with just this Lora.</p><p>2-3: AnythingV3 with just this Lora.</p><p>4: RevAnimated using just this Lora.</p><p>5: MeinaPastel using just this Lora.</p><p>6: AnythingV3 combo'd with my in progress Demonic Transformation Locon.</p><p>7: AnythingV3 combo'd with my in progress Masked Evil Locon (Basically get an evil masked place on you and become evil).</p><p>8: AnythingV3 combo'd with my in progress Anime Officer.</p><p>9: AnythingV3 combo'd with my in progress Biker Chick Locon.</p><p>10: AnythingV3 combo'd with my in progress Delinquent Locon.</p><p><strong>How was it trained?</strong></p><p>It was trained on animefull_final with <strong><em>26</em></strong> images with the usual self-pruning and tagging and a wide range of different images. I like keeping my prompts simple for the first few pictures so that you can see it without a whole bunch of mumbo jumbo. Make your pictures better than mine though!</p><p><strong>What's next for this?</strong></p><p>Should be good to go with this one but let me know of errors.</p><p><strong>What's next that isn't this?</strong></p><p>More character Loras. (<strong><em>Viper and Rupee </em></strong>from Nikke, <strong><em>Spectre Tenebria</em> </strong>from E7, <strong><em>Zephia</em> </strong>from Fire Emblem Engage, <strong><em>Ivy </em></strong>from Soul Calibur 5, <strong><em>Heine </em></strong>from Combatants Will Be Dispatched, <strong><em>Conqueror Lilias</em></strong> from E7, <strong><em>Evelynn </em></strong>from LoL (both base and All Out version), <strong><em>Tharja</em></strong> from Fire Emblem, <strong><em>Laharl-Chan</em></strong> from Disgaea 5, <strong><em>Miku </em></strong>from Idaten Deities, <strong><em>Kuribayashi Shino</em></strong> from GATE, <strong><em>Rin Sohma</em></strong> from Fruits Basket, <strong><em>Kasumi</em></strong> from P5, <strong><em>Ann</em></strong> from P5, <strong><em>Ikumi Mito</em></strong> from Food Wars, <strong><em>Alice Nakiri</em></strong> from Food Wars, <strong><em>Chika Fujiwara</em></strong> from Kaguya-sama, <strong><em>Lulu</em></strong> from FF10, <strong><em>Momo</em></strong> from My Hero, <strong><em>Lucoa </em></strong>from Dragon Maid, <strong><em>Laharl-chan</em> </strong>from Disgaea, <strong><em>Dominique de Sade</em></strong> from Vanitas, and <strong><em>Dos</em></strong> from One Punch Man.) And maybe <strong><em>Wilhelm van Astrea</em></strong>, my favorite Re:Zero husbando or a<strong><em> Prinny</em></strong> from Disgaea.</p><p>V2's of some of the previous Loras. Specifically make them more diversely acceptable with other models and LORA's.</p><p>I also have some more quite NSFW Locon's. I decided to list them as well, so if people have preferences on which to fix up first let me know. Specifically, <strong><em>Bound Yuri</em> </strong>(two girls tied up, breast to breast and likely kissing), <strong><em>Sultry Succubus Transformation, Tied up with vibrators </em></strong><em>(basically the waifu tied up with vibrators and being overwhelmed with pleasure),</em><strong><em> Beta Censorship</em> </strong>(Automatically censors any images you create to make them BetaSafe), <strong><em>Demonic Transformation</em></strong>, <strong><em>being stepped on</em></strong>, <strong><em>Robotification</em></strong>, <strong><em>Defeated</em></strong> (decently NSFW defeat scenario for the waifu getting abused), <strong><em>Petrified</em> </strong>(I'm unsure if I should bother with this one anymore)<strong><em>, Infection </em></strong>(this one is VERY nsfw, as the waifu is completely infected)<strong><em>, Dominatrix</em> </strong>(waifu becoming a dominatrix)<strong><em>, Brainwashing Machine, Tentacles, Pillory, Masked Evil </em></strong>(A mask that possess' the waifu)<strong><em>, Latex Corruption, Combat Drone</em> </strong>(hard to describe but basically making them a mindless sci-fi combat warrior)<strong><em>, JAV Supervillain, Mind Flayer Defeat, Blacked, Hypnotized Harem, Hourglass Figure </em></strong><em>(</em>just to make your waifu curvy),<strong><em> </em></strong>and<strong><em> Holding a Leash.</em></strong></p><p>And, uh, I want to make a few SFW Locon's so I have a <strong><em>Goth Chick, Delinquent </em></strong><em>(The delinquent girls in japanese schools specifically), </em><strong><em>GoodCop/BadCop </em></strong><em>(Locon with outfits for being a good and for being a bad cop)</em><strong><em>, Maid </em></strong><em>(both normal and naughty variants),</em><strong><em> Biker Chick </em></strong><em>(ride a motorcycle and look like you should)</em><strong><em>, Race Queen </em></strong><em>(Chiling sexily on a car)</em>, <strong><em>forest fairy</em></strong>, <strong><em>Anime Officer</em></strong>, <strong><em>barbarian.</em></strong></p><p><strong><em>Or just give me some random suggestion or priority opinions. That works too.\=</em></strong></p><p>I've also added a couple of my extreme NSFW preview images to my twitter (<a target="_blank" rel="ugc" href="https://twitter.com/TwoMoreTimes89">https://twitter.com/TwoMoreTimes89</a>). Let me know if you think I should work on them more for a submission here.</p>

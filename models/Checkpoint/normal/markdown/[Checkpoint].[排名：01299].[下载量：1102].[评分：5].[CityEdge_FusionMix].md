@@ -1,0 +1,30 @@
+## CityEdge_FusionMix
+### 一、模型概述
+
+- 标签：`anime`, `character`, `photo`, `woman`, `2.5d`
+- 下载数：1102
+- 收藏人数：240
+- 评论人数：0
+- 评分人数：3
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.25
+
+- 统计数据
+  - 发布时间：2023-05-19T11:51:18.214Z
+  - 原始模型：SD 1.5
+  - 下载数：1102
+  - 评分人数：3
+  - 评分：5
+- 下载地址
+  - [cityedgeFusionmix_v125.safetensors](https://civitai.com/api/download/models/74872)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c8b5f308-5440-49cb-afa0-a686dbcad50b/width=450/836735.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1561a587-cbff-4e74-85bc-8077ed529aac/width=450/836736.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8cbe6485-cfaf-4634-8792-6f04702cf08a/width=450/838279.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99554bab-8808-4613-b1f5-92f5efd0d1f8/width=450/836746.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>日本語の説明は後半にあります。</p><p>This is a 2.5D merged model to realize 'fusion' in various aspects. Because of the complex merging process, I believe you will enjoy the characters and details that only this model can produce.</p><p>Specifically, the model has the following 'fusion' features.</p><ul><li><p>This model is a 'fusion' merge model of both photorealistic and anime-like models, to create a 2.5D model.</p></li><li><p>Characters will be produced as the 'fusion' of Asian and Western styles.</p></li><li><p>The merging process is complex, and the merged models have unique 'fusion' details that are different from those of other merged models.</p></li></ul><p>The merging process is generally as follows.</p><p>First, many photorealistic models are merged. The criteria for selecting models is if they can produce a photorealistic image when outputting a background without people. More than 15 models that meet this criterion are merged, including minor ones. Finally, only chilled remix and epiCRealism have a composition ratio of more than 10%. (A)</p><p>Next, a separate animated model is multi-block merged to create a clear, detailed, and descriptive animated model. This is basically the same as the one used in CityEdge StyleMix, and the main models used are: anything v5, Counterfeit v3, hassaku.(B)</p><p>Then, the model (B) is multi-block merged with the model (A) to create a 2.5D model. Finally, a thin layer of FaceBombMix, etc. is applied to ensure stability as a 2.5D model.</p><p>Both SFW and NSFW outputs are capable. High quality and unique images can be output in a short prompt. VAE is not needed, but you can try some.</p><p></p><p><strong>List of my models</strong></p><ul><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/38464/cityedgemix">CityEdgeMix </a>: Simple photo-realistic model based on Chilled family</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/45616/cityedgetoonmix">CityEdge_ToonMix</a> : Simple 2.5D anime-like model based on CityEdgeMix</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/57703/cityedge2dtoonmix">CityEdge_2dToonMix</a> : Pure 2D anime-like model merging only 2D models</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/63243/cityedgestylemix">CityEdge_StyleMix</a> : Anime-like model with detail depiction by making use of block-merge</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/70225/cityedge-fusionmix">CityEdge_FusionMix</a> : 2.5D model focusing on unique depiction through merging many models and block-merge.</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/71987/landscapephotoreal">Landscape_Photoreal</a> : Model that produces photorealistic output, whether with characters or just the background</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/78407/cityedgedollymix">CityEdge_DollyMix</a> : Model that produces doll-like and 3D animated movie-like output</p><p></p></li></ul><p>さまざまな要素を融合（Fusion）させて作成した、2.5Dマージモデル。非常に複雑なマージプロセスを経ているため、このモデルでしか出せないキャラクターやディテールが楽しめると思います。</p><p>具体的には、以下のような特徴を持たせています。</p><ul><li><p>全体の描写は、フォトリアル系をベースにアニメ系を「融合」し2.5D化。</p></li><li><p>人物描写は、アジア系をベースに欧米系を「融合」しエキゾチックに。</p></li><li><p>複雑なモデルマージにより他のマージモデルとは異なる独自のディテールを表出。</p></li></ul><p>マージプロセスは概ね以下のようになっています。</p><p>最初に、多数のフォトリアル系モデルをマージしています。モデルの選択基準は、人物なしの背景を出力した際にフォトリアルな画像を出せるかどうか。この基準に合致する15以上のモデルを、マイナーなものも含めマージしています。最終的に構成比が10%を超えているものはchilled remixとepiCRealismのみ。(A)</p><p>次に、別途アニメ系のモデルを階層マージし、クリアで詳細な描写のあるアニメモデルを作成しています。これはCityEdge StyleMixで利用したものと基本的に同じもので、使用している主なモデルは、Anything v5, Counterfeit v3, hassaku。(B)</p><p>そのうえで、(A)のモデルに(B)のモデルを階層マージし2.5D化。最後にFaceBombMix等を薄く重ねて2.5Dモデルとしての安定性を確保しています。</p><p>エロと非エロ、どちらにも対応。短いプロンプトで高品位かつ独自性のあるユニークな画像が出力できます。VAEは焼き込み済みですが別のものを使用してもいいと思います。</p><p></p><p><strong>モデル一覧</strong></p><ul><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/38464/cityedgemix">CityEdgeMix </a>: Chilled系をベースにしたシンプルなフォトリアル系マージモデル</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/45616/cityedgetoonmix">CityEdge_ToonMix</a> : CityEdgeMixを2.5D化したシンプルな2.5Dアニメモデル</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/57703/cityedge2dtoonmix">CityEdge_2dToonMix</a> : 2Dモデルだけをマージしたピュア2Dアニメモデル</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/63243/cityedgestylemix">CityEdge_StyleMix</a> : 階層マージを駆使してディテール描写にこだわったアニメモデル</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/70225/cityedge-fusionmix">CityEdge_FusionMix</a> : 多数のモデルのマージと階層マージによる独自の描写にこだわった2.5Dモデル</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/71987/landscapephotoreal">Landscape_Photoreal</a> : キャラクターがいても、背景だけでも、フォトリアルな出力が得られるモデル</p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/78407/cityedgedollymix">CityEdge_DollyMix</a> : ドール調・3Dアニメ映画調の出力が得られるモデル</p></li></ul>

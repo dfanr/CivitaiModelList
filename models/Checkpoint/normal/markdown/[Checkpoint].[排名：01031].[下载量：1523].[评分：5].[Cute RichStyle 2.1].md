@@ -1,0 +1,30 @@
+## Cute RichStyle 2.1
+### 一、模型概述
+
+- 标签：`character`, `dolls`, `midjourney`, `digital art`, `little`, `babies`, `baby`, `cartoon`, `cute`
+- 下载数：1523
+- 收藏人数：444
+- 评论人数：23
+- 评分人数：3
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] Cute RichStyle
+
+- 统计数据
+  - 发布时间：2023-03-18T00:15:35.570Z
+  - 原始模型：SD 2.1 768
+  - 下载数：1523
+  - 评分人数：3
+  - 评分：5
+- 下载地址
+  - [cuteRichstyle21_cuteRichstyle.ckpt](https://civitai.com/api/download/models/5377)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/35e6c1bf-9425-45bd-a246-06433b7d5600/width=450/42193.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ddd5fc9b-266e-4b69-81a0-7d6905a65000/width=450/42191.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d6a940b3-a518-4128-6b52-7dc415465000/width=450/42192.jpeg" /> |
+| ---- | ---- | ---- |
+
+
+### 三、详情
+<h1>Cute RichStyle - 768x768</h1><p>Model trained in SD 2.1 with photos generated with Midjourney, created to generate people, animals/creatures...</p><p>You can also make objects... landscapes, etc, but maybe you need more tries:</p><ul><li><p>30 steps - 7cfg</p></li><li><p>euler a,ddim, dpm++sde...</p></li><li><p>you can use different resolutions, you can generate interesting things</p></li></ul><p></p><p><strong>TOKEN</strong>: <em>cbzbb, cbzbb style, cbzbb style of _____</em> , you can put the token , (it is not required) but it is better to put it. Many times the token between () works better</p><p></p><p><u>possible positives</u>: cute, little, baby, beautiful, fantasy art, devian art, trending artstation, digital art, detailed, realistic, humanoide, character, tiny, film still of "____" , cinematic shot, "____" environment, beautiful landspace of _____, cinematic portrait of ______, cute character as a "_____"....</p><p></p><p>If you want to make it less realistic, put the word: character in positive prompt</p><p></p><p></p><p><u>most important negatives</u> (not mandatory but they help a lot) : pencil draw, bad photo, bad draw</p><p><u>other possible negatives</u>: cartoon, woman, man, person, people, character, super hero, iron man, baby, anime...</p><p>((When you generate the photo, there are times when it tries to create a person/character, that's why the negative character prompts etc...))</p><p></p><ul><li><p>landscape prompts better between ( ) or more parentheses, although it is not always necessary</p></li><li><p>you can use other styles, removing the "cbzbb" token and adding pencil draw, lego style.. watercolor etc etc, it doesn't make the exact photo style with which I trained it but they look great too!!</p></li><li><p>Most of the photos are daytime, to create nights it once worked with:</p><ul><li><p>positive: (dark), (black sky) (dark sky) etc etc</p></li><li><p>negative: (blue day), (day light), (day) (sun) etc etc</p><p></p></li></ul></li></ul><h3><strong>Improve images and increase resolution</strong></h3><ul><li><p>Generate images and choose the one you like the most, and send it to the img2img section.</p></li><li><p>In img2img, choose to generate 2-4 or more images. If you want it to resemble the original photo, set "denoising" to 0.4-0.5-0.6. If you want more changes in the image, you can set "denoising" from 0.6 to 1.</p></li><li><p>Once those 4 images are generated, choose the one you like the most (or generate more images until you find the one you like) and send it back to img2img.</p></li><li><p>Now we will increase the resolution of the image. If the photo is 768x768, we can set it to 976x976 and 50 steps for example (changing "denoising" if we want it to resemble more or less) and generate 2-4 more images again and choose the one we like and send it back to img2img and keep increasing the resolution of the image little by little until you want to, in order to not lose details.</p></li><li><p>At this point, we can lower denoising to 0.15 if we don't want the image to change, and generate 1 image with 50/100 steps, this way we can make giant images with high resolution/quality.</p></li></ul><p></p><ul><li><p>Change person/character in the image: if you like the photo but want to change the character, send a photo to img2img, change the name of the character or person or animal and between 0.7-1 denoising</p></li></ul><p></p><h3><strong>UPDATE 24/01/2023</strong></h3><p></p><ul><li><p>Sometimes it is better if we add weight to the token : (cbzbb:1.1)...</p><p></p></li><li><p>More good styles: pixel art, anime style...</p><p></p></li><li><p>I know that the model is not very good for creating backgrounds, to add backgrounds to them with the same style as in the characters, we can use this extension:</p><p><a target="_blank" rel="ugc" href="https://github.com/KutsuyaYuki/ABG_extension">https://github.com/KutsuyaYuki/ABG_extension</a> (thanks to Niaka for the info)</p></li></ul><p></p><p></p><p></p><p><strong>Prompt examples:</strong></p><p>cbzbb style of a pennywise</p><p>michael jackson, cbzbb, detailed, fantasy,super cute, trending on artstation</p><p>cbzbb style of angry baby groot</p><p>cute panda reading a book, cbzbb style</p><h2>ENJOY !!!!</h2><p></p><p></p><p>If you want to share the images, you can tag me on social media or in the comments! I'd LOVE to SEE what you can do with the model!</p><ul><li><p><strong>Twitter:</strong> @RichViip</p></li><li><p><strong>Instagram</strong>: richviip</p></li><li><p><strong>Reddit:</strong> Richviip</p></li><li><p><strong>Discord:</strong> RichVip#6402<br /><br />If you have any doubts, you can talk to me on social media or in the comments!</p><p></p></li></ul><p>Thank you for the support and great help of ALL the people on Patricio's discord (especially to Abecar), who were at every moment of the creation of the model giving their opinion on more than 15 different types of models and making my head hurt less!</p><p>Social media of Patricio, follow him!!</p><ul><li><p><strong>Youtube:</strong> patricio-fernandez</p></li><li><p><strong>Twitter:</strong> patriciofernanf</p></li></ul>

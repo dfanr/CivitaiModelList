@@ -1,0 +1,30 @@
+## AnythingQingMix-2.5D-NSFW
+### 一、模型概述
+
+- 标签：`anime`, `boy`, `gay`, `bara`, `style`, `yaoi`, `male`, `man`, `men`, `boys`
+- 下载数：1059
+- 收藏人数：319
+- 评论人数：9
+- 评分人数：9
+- 评分：4.89
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-06-22T23:51:05.703Z
+  - 原始模型：SD 1.5
+  - 下载数：1059
+  - 评分人数：9
+  - 评分：4.89
+- 下载地址
+  - [anythingqingmix25D_v10.safetensors](https://civitai.com/api/download/models/91111)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/84408867-d882-469c-95e3-0b0f23769397/width=450/1300351.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53cf6dbb-9980-4128-9085-b3f001478f01/width=450/1300768.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d51047b3-7235-4486-a533-0c4ac4a8b6a1/width=450/1362495.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f86d1ad-9e9a-45c7-9362-cdae0d3b15a9/width=450/1369092.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h1 id="heading-2068"><strong><span style="color:rgb(148, 169, 255)">禁止使用此模型进行一切商务及违法行为，禁止随意转载，仅作为成果分享，违者后果自负！</span></strong></h1><h3 id="heading-2069"><span style="color:rgb(255, 153, 153)">一、模型特征概述</span></h3><p>1、2.5D写实感融合模型，具有很高的下限</p><p>2、即使是使用sfw的各类型lora，依旧能很好的跑出nsfw的图</p><p>（融合模型的初衷就是因为不满跑同人色图时，由于使用色情lora辅助导致角色外貌受到影响，所以通过模型合并的方式让模型自身拥有强力的nsfw能力）</p><p>3、对人体塑造能力很强，肢体至今未遇到崩坏情况，手部、脚部崩坏几率很小</p><p>4、融合时特意避开对脸部的影响，所以脸部没有固化，很适合搭配角色lora</p><p>5、无clip偏移问题</p><p>6、因为unet有些过拟合导致某些tag不听使唤</p><h3 id="heading-2070"><span style="color:rgb(255, 161, 161)">二、跑图建议</span></h3><p>（具体可以看封面图片的各类参数，不同VAE有不同的效果，我还喜欢开<span style="color:rgb(255, 255, 255)">Face Editor</span>插件）</p><p>1、因为融了相当一部分真人模，使用跑图时可以尝试和跑真人底膜一样的参数，但依然非常不建议使用面部修复</p><p>2、可以在跑图时加点质量词，它们是有用的。如果你希望他看起来更逼真立体，用一些与写实、光影相关的tag</p><p>3、可以多多尝试在同一tag下，clip跳过层为1和2的实际出图情况</p><p>4、方图、长图、宽图表现都不差，可以随意调整画布大小</p><p>5、这个模型其他类型的表现都不差，但最优秀的还是人物</p><p>6、请多多点赞、返图、评论、5星哦~</p><h3 id="heading-1051"><span style="color:rgb(255, 158, 158)">三、融合采用模型</span></h3><p>（我无法确定是否是这些，仅当参考）</p><p><strong>VAE：</strong><a target="_blank" rel="ugc" href="http://orangemixa3.vae.pt"><strong>orangemixa3.vae.pt</strong></a></p><p><strong>LORA：</strong></p><ul><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/7735/husbando-lora">Husbando LoRA - v3 | Stable Diffusion LoRA | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/23394/animale-lora">Animale LoRa - Animale LoRa v1 | Stable Diffusion LoRA | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/15040/airoticarts-penis-model-lora">AIroticArt's Penis Model (LoRA) - v1.0 LoRA | Stable Diffusion LoRA | Civitai</a></p></li></ul><p><strong>CKPT：</strong></p><ul><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/4449/abyssorangemix2-nsfw">AbyssOrangeMix2 - NSFW - AbyssOrangeMix2_nsfw | Stable Diffusion Checkpoint | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/43804/a7b3">a7b3 - v1.0 | Stable Diffusion Checkpoint | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/50882?modelVersionId=58042">maturemalemix - v1.2 | Stable Diffusion Checkpoint | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/44430?modelVersionId=49057">ALLBoyMix - v1.0 | Stable Diffusion Checkpoint | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/20113?modelVersionId=32805">YaoiGen - YaoiGen v0.4.4 | Stable Diffusion Checkpoint | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/1256/homoerotic">Homoerotic - v2 | Stable Diffusion Checkpoint | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/6291/plazm-men">Plazm Men - Plazm v1.0 | Stable Diffusion Checkpoint | Civitai</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/52300?modelVersionId=56754">HomoDiffusion (gay) - Homo Diffusion v1.0 FP32 | Stable Diffusion Checkpoint | Civitai</a></p></li></ul><h3 id="heading-4091"><span style="color:rgb(255, 163, 163)">四、给予访客使用模型的一些建议与回答</span></h3><p>（作为一个外行人，虽然没有经历过美术和ai的专业课学习，但我仍然在不断努力学习探索，并与各位大佬交流心得。我对自己在意的事情有着很高的精神洁癖，因此我希望能在自己的一亩三分地里传达正确的ai知识。这些在下方文档里都有，仅作为遇到的问题单独回答。）</p><p><strong>1、LORA</strong></p><ul><li><p>对于动漫角色lora而言，<strong>最好的权重便是1</strong>。虽然我们能通过改变权重的方式来改善拟合，但改变权重会额外产生一些不好影响。比如：c站动漫角色lora大多数都过拟合，而为了改善这一现象往往会推荐降低权重到0.6/0.8，而这一举动会导致角色<strong>失去</strong>部分原本的外貌特征</p></li><li><p>过拟合通俗解释：过分训练导致的lora表现僵化，如人物不听tag话甚至出原本素材的图</p></li></ul><p><strong>2、CKP</strong></p><ul><li><p>clip偏移和unet过拟合都会导致模型不听tag话</p></li><li><p>clip偏移会导致tag识别问题，c站有相当一部分模型存在此问题而不自知，如果你感兴趣，在下面的“其他”里我会给予检查及简单修复的途径</p></li><li><p>unet过拟合也会让模型僵化，不听tag使唤，甚至在无tag的情况下跑出好看的图片，这也是过拟合吐原图的情况</p></li><li><p>融合类ckpt能够很好的提高模型出图的下限，但融合模型对于tag的<strong>权重是很乱</strong>的，因此会各具“特色”，同样，基于此类模型训练的lora很难在其他模型上适用</p></li><li><p>如果你希望大模型对于lora及其他模型的接纳程度更好就尽量不要再融合ckp模型时融合lora，或者和我一样在权衡之下融入以较低权重修正不尽人意的部分</p></li></ul><p><strong>3、VAE</strong></p><ul><li><p><strong>CKP自身就有一个VAE</strong>，外挂VAE不是用于额外的增加，而是用于<strong>替换</strong></p></li><li><p>VAE只是最直观的是饱和度变化，这并非VAE功能的全部，就对于跑图而言还会改变构图、细节等等</p></li></ul><p><strong><span style="color:rgb(250, 82, 82)">4、其他</span></strong></p><ul><li><p>模型占内存大的不一定好，很多模型内有<strong>一堆无用数据</strong>，下载完全浪费流量内存</p></li><li><p>示例图的好坏不能确定模型质量，除了基于作者本身审美外，你无法确定他用了多少模型、插件的辅助，你也无法确定他文生图跑了几次、图生图跑了几次</p></li><li><p>下载量与点赞也不能确定模型质量，点赞量基于下载量，而下载量会和作者名气、封面图片受众、模型角色人气、模型画风受众、模型类型受众等等相关</p></li><li><p>模型并非版本最新为最好，很多时候是基于某一版本的不同方向的调整。甚至有部分作者为了通过更新的推送而蹭到更多的下载量而恶意刷更新，实际使用下来模型的质量不过是在原地迂回踏步</p></li><li><p><strong>其他更为专业详细的知识请看万象熔炉 | Anything V5/Ink的简介部分，关于clip偏移的检验修复的扩展链接在此文档前段部分中</strong></p><p><strong>模型链接：</strong><a target="_blank" rel="ugc" href="https://civitai.com/models/9409/or-anything-v5ink">万象熔炉 | Anything V5/Ink - V3.2++[ink] | Stable Diffusion Checkpoint | Civitai</a></p><p><img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8fea5d98-3516-4f1a-85e8-e2f8268e4725/width=525/8fea5d98-3516-4f1a-85e8-e2f8268e4725.jpeg" /></p></li></ul>

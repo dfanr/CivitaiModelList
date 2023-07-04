@@ -1,0 +1,105 @@
+## Chinese Idol - YangMi杨幂
+### 一、模型概述
+
+- 标签：`girl`, `photorealistic`, `woman`, `celebrity`, `yangmi`, `asian woman`
+- 下载数：10115
+- 收藏人数：1363
+- 评论人数：33
+- 评分人数：20
+- 评分：4.8
+
+### 二、下载地址（共6个版本）
+
+#### [版本6/共6个版本] V73.06
+
+- 统计数据
+  - 发布时间：2023-06-14T07:08:28.947Z
+  - 原始模型：SD 1.5
+  - 下载数：1446
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [yangmiV73-000006.safetensors](https://civitai.com/api/download/models/95699)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d4a62c4b-b825-46e7-afd8-d54b866e71fb/width=450/1140830.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0b7ca292-83e4-42c3-9282-4daf8d517f9a/width=450/1140219.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83d5aa01-2060-4264-a97f-4b5081439d94/width=450/1139334.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0a8852b2-3d0a-404a-b74b-bd217048f374/width=450/1140832.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+#### [版本5/共6个版本] V38
+
+- 统计数据
+  - 发布时间：2023-06-14T07:03:51.747Z
+  - 原始模型：SD 1.5
+  - 下载数：1224
+  - 评分人数：6
+  - 评分：4.83
+- 下载地址
+  - [yangmiv38.safetensors](https://civitai.com/api/download/models/30399)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9d494054-8923-44c6-bb7c-4d14bd2c1200/width=450/345279.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/65a5fb8f-c096-41e7-8830-aaaf97e41a00/width=450/345278.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/52fc89cb-53ff-46e8-08aa-12dc8dc2cc00/width=450/345277.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1abdf663-ba0a-477d-38e6-511652075500/width=450/345276.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+#### [版本4/共6个版本] V43
+
+- 统计数据
+  - 发布时间：2023-06-14T07:03:51.747Z
+  - 原始模型：SD 1.5
+  - 下载数：5683
+  - 评分人数：9
+  - 评分：4.89
+- 下载地址
+  - [yangmiv43-000002.safetensors](https://civitai.com/api/download/models/34142)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/14970a80-1732-48c2-c4ee-1ab219590300/width=450/389971.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6118fcdb-f992-4702-1075-c581a969ca00/width=450/389979.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/98c5e601-2986-4b00-9148-e963ddcf1900/width=450/389978.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/407a7652-230b-46cf-14d0-650f9b112d00/width=450/389977.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+#### [版本3/共6个版本] V36
+
+- 统计数据
+  - 发布时间：2023-06-14T07:03:51.747Z
+  - 原始模型：SD 1.5
+  - 下载数：916
+  - 评分人数：2
+  - 评分：4
+- 下载地址
+  - [yangmiv36.safetensors](https://civitai.com/api/download/models/28278)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c327b084-e8ac-4d90-ef6e-55379bcbc700/width=450/318182.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4aa2a651-00c4-4d60-bdb4-ef9dda35bb00/width=450/318181.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/99de79c2-85bc-4d43-30ba-059997b70700/width=450/318180.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/39f326ad-e161-4a05-ac6b-6250c95a3200/width=450/318179.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+#### [版本2/共6个版本] V34
+
+- 统计数据
+  - 发布时间：2023-06-14T07:03:51.747Z
+  - 原始模型：SD 1.5
+  - 下载数：553
+  - 评分人数：2
+  - 评分：5
+- 下载地址
+  - [yangmiv34-000001.safetensors](https://civitai.com/api/download/models/27725)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d608d4e2-cb56-4444-d385-3b0ddc397e00/width=450/311968.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d3b2f24a-3d40-4f46-b56a-40039b002300/width=450/311967.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e4be7fd4-48eb-441a-7d13-688fc9ac4d00/width=450/305569.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2a7eee39-4ceb-4da3-144b-c9064ef47d00/width=450/305565.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+#### [版本1/共6个版本] V27
+
+- 统计数据
+  - 发布时间：2023-06-14T07:03:51.747Z
+  - 原始模型：SD 1.5
+  - 下载数：293
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [yangmiv27-000002.safetensors](https://civitai.com/api/download/models/27627)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/6a965a2f-6495-454a-7356-5bbdad52d200/width=450/304517.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2d096d2f-d3a7-42b1-53b8-8133bf03f900/width=450/304525.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4002c713-e4b9-4477-69b3-7c2c6a828a00/width=450/304524.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/70ab2d3d-400e-4979-8b47-d4bbd20cdf00/width=450/304523.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>本LORA以技术测试作为主要目的，目标是整理出一套可复制、可持续使用的方法，目前已经测试过33次不同的方式，欢迎大家一齐研究，加入频道：<a target="_blank" rel="ugc" href="https://discord.gg/CxynduC63t">https://discord.gg/CxynduC63t</a></p><p></p><p>I will display this model publicly for academic research and discussion. I hope to discuss working methods with you. I strongly advise against uploading any NSFW generated by this model. You are warmly welcome to communicate with me here on how to improve the working method and make the model more realistic. If you have any suggestions, such as choosing a different base model, training with more images, increasing the number of training steps, or changing the training size for a more realistic overall effect, please feel free to leave a comment below.</p><p></p><p>我會把這個模型公開展示出來，目的是學術研究與討論用，希望和大家一起探討工作方法。我強烈建議不要上傳任何由此模型生成的 NSFW。熱烈歡迎您在這裡與我交流如何改進工作方法，使模型更逼真。如果您有任何建議，例如選擇不同的基礎模型、使用更多圖像進行訓練、增加訓練步數或更改訓練大小以獲得更逼真的整體效果，請隨時在下面發表評論。</p><p></p><p>本人原則上不支持使用此模型生成任何成人內容。用戶在使用本模型時，請務必遵守當地法律法規，勿侵犯他人的名譽權、隱私權或肖像權。</p><p></p><p>如本lora侵犯了您的权利，请联系我，将会下架处理。</p><p></p><p>底模：chilloutmix_NiPrunedFp32Fix</p><p></p><p>Version 27： 这是人像正则化练习的第一版，weight建议选择9左右，由于带有服装、场景污染，请使用负面tag优化，全身图可能脸崩；请酌情开启脸部修复</p><p></p><p>Version 34：去除了正则化的方式，可能有白色礼服污染，可用负面tag优化，未经过太多测试，但估计露肩元素过多，已知有部分问题，下一版尝试修复</p><p></p><p>Version 36：修正了V34衣服过拟合的问题，半身照效果比较好，lora在0.8-0.9左右可抽卡出图，大头和全身依然失真</p><p></p><p>Version38：在V36基础上加入了正则化调整，0.7下泛化较好，衣服和场景都可以相对自由，虽然有一半几率不太像，但终究是个小美女，像更加像的可以增加权重；大头和全身没有测，下一个版本将基于同妆容的素材集重新训练</p><p></p><p>Version 43：采用新图集，采用完全正则化方式训练。初步测试结果：0.7-0.8出图相似图高，0.6有时也可，在描述词较少的情况下（不确定）泛化程度较高，也就是说衣服和场景的更换更灵活，碍于显卡显存太小，全身照脸部不像是硬伤，大头照没有测，估计应该还可以，半身照upper body效果最好。笑起来也是有点不像（素材集问题，可能soft smile会好点）</p><p></p><p>Version 73: 采用普通+正则混合的方式训练，0.7左右效果可以，建议不要太多描述词，与V43相比并没有谁好谁坏，只是在不同的情况下各有优势<br /><br />看图太多了，已经有点脸盲了 #_#</p>

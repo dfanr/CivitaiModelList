@@ -1,0 +1,30 @@
+## Object_Arthemy
+### 一、模型概述
+
+- 标签：`objects`, `render`, `realism`, `advertising`, `design`, `realistic`, `advertisement`, `object`, `arthemy`
+- 下载数：574
+- 收藏人数：153
+- 评论人数：3
+- 评分人数：1
+- 评分：5
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v1.0
+
+- 统计数据
+  - 发布时间：2023-06-11T19:00:42.880Z
+  - 原始模型：SD 1.5
+  - 下载数：574
+  - 评分人数：1
+  - 评分：5
+- 下载地址
+  - [objectArthemy_v10.safetensors](https://civitai.com/api/download/models/93791)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c5b3cdf4-d8ba-4c61-af50-a12a14bbf2ad/width=450/1113504.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c076c9c9-8130-4e54-87da-647bf62851ad/width=450/1111717.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea671ed3-b7ea-4443-89aa-ee80f0cf711c/width=450/1111719.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2110a474-a4ab-4b3d-9652-37d65056f2eb/width=450/1111720.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<p>Follow me at: <a target="_blank" rel="ugc" href="https://www.instagram.com/arthemy_vision/">https://www.instagram.com/arthemy_vision/</a><br />And EddieMauro at: <a target="_blank" rel="ugc" href="https://www.instagram.com/eddiemauro.design/">https://www.instagram.com/eddiemauro.design/</a><br /><br />This model has been created with the intend of making a general object-based model, which means that realistic human shapes are not the in the scope of this merge.</p><p></p><h2 id="heading-70">✦ Object Arthemy - Quick Start ✦</h2><p><strong>1</strong>_____ I highly suggest to use these <strong>embeddings</strong>:<br /><br />For creativity:</p><ul><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/7808/easynegative">easynegative</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/11772/verybadimagenegative">verybadimagenegative_v1.3</a></p></li></ul><p>For realism (attention, these are pretty dominant on the final results):</p><ul><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings">BadDreams</a></p></li><li><p><a target="_blank" rel="ugc" href="https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings">UnrealisticDreams</a></p></li></ul><p><strong>2</strong>_____<strong>Size</strong>: Around 640 x 768</p><p><strong>3</strong>_____<strong>Prompt</strong>: Start from the prompt of the pictures I've uploaded and then customize the areas focused on <strong>Subject</strong>, <strong>Materials, Colors</strong> and <strong>Aesthetic</strong>. This is not a strict rule, but it helps a lot in order to get a decent result quickly.</p><ul><li><p>Quick Prompt:</p><pre><code>(object), advertisement, product shot, (SUBJECT), MATERIAL, COLORS, finely detailed, purism, 100mm advertising photography, minimalism, studio lighting, 8k, (empty-background), (absurdres:1.22), hyperdetailed</code></pre></li><li><p>Quick Negative Prompt:</p><pre><code>easynegative, (fake), high contrast, oversharp,  verybadimagenegative_v1.3</code></pre></li></ul><p><strong>4</strong>_____<strong><em>Upscale: </em></strong><em>to get crisp results like the one shown in the pictures use HiResFix and Real-ESRGAN. I suggest to use this step only on the preferred pictures, since it's quite heavy on the performance side.</em><br />____________________________________________________________________________________________<br /></p><h2 id="heading-70">✦ Object Arthemy - How it was created ✦</h2><p><br />After a conversation with <a target="_blank" rel="ugc" href="https://civitai.com/user/eddiemauro/models">EddieMauro</a>, creator of the model "<a target="_blank" rel="ugc" href="https://civitai.com/models/23893/product-design-minimalism-eddiemauro">Product Design</a>", I asked him permission to merge his model with some photorealistic general models from this community (you can check the list at the end of this text) and this is the result.<br /><br />EddieMauro has been so kind to change the permissions on his model in order to make it free to be merged with other models too, so remember to download it, have fun and use its work to fine-tune your merges!<br /><br />You might notice that there are not a lot of models used for this merge, but that's because I'm now experimenting with the <a target="_blank" rel="ugc" href="https://github.com/bbc-mc/sdweb-merge-block-weighted-gui">Merge Block Weighted</a> extension, which gives a lot more control on the way the models are mixed <em>- making the process... quite more complex.</em><br /><br />This is a first version, which means it's far from perfect.<br />I hope you all will still be able to create wonderful objects and I can't wait to see them - I'll be here listening to your feedbacks for the next release.<br />____________________________________________________________________________________________<br /><br />MERGE's RECIPE:</p><ul><li><p>ICBINP - <a target="_blank" rel="ugc" href="https://civitai.com/models/28059/icbinp-i-cant-believe-its-not-photography">https://civitai.com/models/28059/icbinp-i-cant-believe-its-not-photography</a></p></li><li><p>EpiCRealism - <a target="_blank" rel="ugc" href="https://civitai.com/models/25694/epicrealism">https://civitai.com/models/25694/epicrealism</a></p></li><li><p>PurePerfection - <a target="_blank" rel="ugc" href="https://civitai.com/models/53491/pureperfection">https://civitai.com/models/53491/pureperfection</a></p></li><li><p><strong>Product Design</strong> - <a target="_blank" rel="ugc" href="https://civitai.com/models/23893/product-design-minimalism-eddiemauro">https://civitai.com/models/23893/product-design-minimalism-eddiemauro</a></p></li></ul><p>As always, remember to share some love and support those creators who contributed to the creation of this merge with their model - consider thanking them in any way you feel right!<br /></p>

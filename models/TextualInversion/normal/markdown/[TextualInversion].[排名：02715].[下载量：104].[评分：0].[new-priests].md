@@ -1,0 +1,30 @@
+## new-priests
+### 一、模型概述
+
+- 标签：
+- 下载数：104
+- 收藏人数：8
+- 评论人数：0
+- 评分人数：0
+- 评分：0
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] learned embeds
+
+- 统计数据
+  - 发布时间：2022-12-17T22:00:13.758Z
+  - 原始模型：SD 1.5
+  - 下载数：104
+  - 评分人数：0
+  - 评分：0
+- 下载地址
+  - [new-priests.bin](https://civitai.com/api/download/models/791)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9ca4bfd8-2d24-404a-5483-ee17316dd500/width=450/14489.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f0f0a4ca-62f4-4809-b494-dafeb1182000/width=450/14488.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0e0ed41b-4e5d-4172-120c-98a735477e00/width=450/14487.jpeg" /> |
+| ---- | ---- | ---- |
+
+
+### 三、详情
+<p>Originally posted to <a href="https://huggingface.co/sd-concepts-library/new-priests" rel="ugc" target="_blank">HuggingFace by sd-concepts-library</a></p>New priests on Stable Diffusion<p>This is the &lt;new-priest&gt; concept taught to Stable Diffusion via Textual Inversion. You can load this concept into the <a href="https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_conceptualizer_inference.ipynb" rel="ugc" target="_blank">Stable Conceptualizer</a> notebook. You can also train your own concepts and load them into the concept libraries using <a href="https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_textual_inversion_training.ipynb" rel="ugc" target="_blank">this notebook</a>.</p><p><br /></p>

@@ -1,0 +1,30 @@
+## Cine Diffusion
+### 一、模型概述
+
+- 标签：`character`, `vintage`, `film`, `photorealistic`, `analog`, `cyberpunk`, `cinema`, `sci-fi`, `woman`, `photography`, `video game`, `dreambooth`
+- 下载数：3091
+- 收藏人数：680
+- 评论人数：13
+- 评分人数：22
+- 评分：4.91
+
+### 二、下载地址（共1个版本）
+
+#### [版本1/共1个版本] v3
+
+- 统计数据
+  - 发布时间：2023-04-25T12:44:44.551Z
+  - 原始模型：SD 1.5
+  - 下载数：3091
+  - 评分人数：22
+  - 评分：4.91
+- 下载地址
+  - [cineDiffusion_v3.safetensors](https://civitai.com/api/download/models/54534)
+- 样例图像：
+
+| <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b4cbcb30-e9c5-4760-86c9-5fe6e00d8800/width=450/590248.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9db79ddf-fdfc-4561-0282-858cda859d00/width=450/594702.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/83f3193a-ae65-4516-0dd2-180d6c6d6d00/width=450/590249.jpeg" /> | <img src="https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dd6d675d-eb5f-4e57-5099-962d252c1e00/width=450/590251.jpeg" /> |
+| ---- | ---- | ---- | ---- |
+
+
+### 三、详情
+<h1 id="heading-77">Read Description</h1><p><strong>Important</strong>: Having multiple models uploaded here on civitai has made it difficult for me to respond to each and every comment. One of the ways I plan on addressing this is via the creation of a pdf guide for each and every model (think of it as the models documentation). This will take a while though. So in the meantime, if you have any questions or feedback -</p><p><a target="_blank" rel="ugc" href="https://discord.com/channels/1010980909568245801/1073440375336882186"><strong>visit my thread of the Unstable Diffusion Discord</strong></a></p><p></p><p></p><h3 id="heading-78">VAE Required</h3><p>Download VAE - <a target="_blank" rel="ugc" href="https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main">https://huggingface.co/stabilityai/sd-vae-ft-mse-original/tree/main</a></p><p>|──sd</p><p>|____|──stable-diffusion-webui</p><p>|____|____|──models</p><p>|____|____|____|──VAE</p><p>|____|____|____|____|──&lt;Put your VAE file here&gt;</p><p></p><p><img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/74b86d4e-571e-4c67-93bd-658ed080a200/width=525/74b86d4e-571e-4c67-93bd-658ed080a200.jpeg" /></p><p><strong>Cine Diffusion - Fine tuned on cinematic stills and 35mm film.</strong></p><p></p><p><strong>Note</strong>: Description is limited atm. Full PDF documentation is in the works.</p><p></p><p><em>Have you heard of the high elves?</em><br />If you're attempting to generate an image of a elf and aren't seeing pointy ears:</p><ul><li><p>Set your CFG to 7+</p></li><li><p>Make sure <code>elf</code> is closer towards the beginning of the prompt.</p></li></ul><p></p><p></p><p><strong>Warning</strong> - This model is a bit horny at times. I tried to alleviate this by fine tuning the text-encoder using the class <code>nsfw</code> and <code>sfw</code>. Although this solution is not perfect. More experimentation is needed. I've had most success with adding <code>sfw</code> or <code>nsfw</code> within the first 75 tokens of the prompt. Adding <code>sfw</code> or <code>nsfw</code> to the negative prompt can also help.</p><p></p><h3 id="heading-79">Settings</h3><p><strong>Clipskip</strong> : 1</p><p><strong>ETA Noise Seed Delta</strong> : 31337</p><p><strong>CFG</strong> : 6 - 8</p><p><strong>Sampler recommendations</strong> :</p><ul><li><p>DPM++ SDE Karras, 18-40 steps</p></li><li><p>Euler a, 20-32 steps</p></li><li><p>DPM++ 2M Karras, 30 - 70 steps</p></li><li><p>Heun, 20 -30 steps</p></li><li><p>Euler, 20 - 70 steps, Sigma Churn = 1</p></li></ul><p>These parameters are <em>not strictly required</em>, experiment around with other samplers and parameter values. You might find something that works better for you.</p><p><strong>Textual Inversion (Negative) used in sample images</strong> :</p><ul><li><p>Bad_prompts_version2 - <a target="_blank" rel="ugc" href="https://huggingface.co/datasets/Nerfgun3/bad_prompt/blob/main/bad_prompt_version2.pt">https://huggingface.co/datasets/Nerfgun3/bad_prompt/blob/main/bad_prompt_version2.pt</a></p><ul><li><p>Install location - <code>stable-diffusion-webui -&gt; embeddings -&gt; &lt;place .pt embedding here&gt;</code></p></li></ul></li></ul><p></p><h3 id="heading-80">Check out my other models</h3><ul><li><p>Based Model - <a target="_blank" rel="ugc" href="https://civitai.com/models/83991?modelVersionId=89262">https://civitai.com/models/83991?modelVersionId=89262</a></p></li></ul><ul><li><p>Electric Eden - <a target="_blank" rel="ugc" href="https://civitai.com/models/64355/electric-eden">https://civitai.com/models/64355/electric-eden</a></p></li><li><p>Project AIO - <a target="_blank" rel="ugc" href="https://civitai.com/models/18428/project-aio">https://civitai.com/models/18428/project-aio</a></p></li><li><p>Eris - <a target="_blank" rel="ugc" href="https://civitai.com/models/21952/eris">https://civitai.com/models/21952/eris</a></p></li></ul><ul><li><p>WonderMix - <a target="_blank" rel="ugc" href="https://civitai.com/models/15666/wondermix">https://civitai.com/models/15666/wondermix</a></p></li></ul><ul><li><p>Refined - <a target="_blank" rel="ugc" href="https://civitai.com/models/8392/refined">https://civitai.com/models/8392/refined</a></p></li></ul><ul><li><p>Experience - <a target="_blank" rel="ugc" href="https://civitai.com/models/5952/experience">https://civitai.com/models/5952/experience</a></p></li><li><p>Elegance - <a target="_blank" rel="ugc" href="https://civitai.com/models/5564/elegance"><u>https://civitai.com/models/5564/elegance</u></a></p></li></ul><ul><li><p>Clarity - <a target="_blank" rel="ugc" href="https://civitai.com/models/5062/clarity">https://civitai.com/models/5062/clarity</a></p></li><li><p>VisionGen - Realism Reborn -<a target="_blank" rel="ugc" href="https://civitai.com/models/4834/visiongen-realism">https://civitai.com/models/4834/visiongen-realism</a></p></li></ul><p><strong><u>LoRA</u></strong></p><ul><li><p>Pant Pull Down - <a target="_blank" rel="ugc" href="https://civitai.com/models/11126/pant-pull-down-lora">https://civitai.com/models/11126/pant-pull-down-lora</a></p></li></ul>
